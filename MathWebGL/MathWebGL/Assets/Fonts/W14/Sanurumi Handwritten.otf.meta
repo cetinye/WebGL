@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: edeb3f53b63df4e4581bade4284f7a73
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Sanurumi Handwritten
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a3ad263c85859a549b2d7e1fb11da28f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

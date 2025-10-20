@@ -1,0 +1,202 @@
+[
+  {
+    "gameId" : "Happy_Holidays",
+    "trueAnswerPoint" : 100,
+    "falseAnswerPoint" : 100,
+    "bonusPoint" : 100,
+    "lowestScore" : 0,
+    "highestScore" : 1000
+  },
+  {
+    "gameId" : "Marine_Management",
+    "trueAnswerPoint" : 100,
+    "falseAnswerPoint" : 100,
+    "bonusPoint" : 0,
+    "lowestScore" : 0,
+    "highestScore" : 1000
+  },
+  {
+    "gameId" : "Jungle_Race",
+    "trueAnswerPoint" : 100,
+    "falseAnswerPoint" : 100,
+    "bonusPoint" : 100,
+    "lowestScore" : 0,
+    "highestScore" : 1020
+  },
+  {
+    "gameId" : "To_Be_or_Not_To_Be",
+    "trueAnswerPoint" : 100,
+    "falseAnswerPoint" : 100,
+    "bonusPoint" : 100,
+    "lowestScore" : 0,
+    "highestScore" : 1000
+  },
+  {
+    "gameId" : "Grand_Tour",
+    "trueAnswerPoint" : 100,
+    "falseAnswerPoint" : 100,
+    "bonusPoint" : 100,
+    "lowestScore" : 0,
+    "highestScore" : 1375
+  },
+  {
+    "gameId" : "No_Time_No_Wrong",
+    "trueAnswerPoint" : 100,
+    "falseAnswerPoint" : 100,
+    "bonusPoint" : 100,
+    "lowestScore" : 0,
+    "highestScore" : 1785
+  },
+  {
+    "gameId" : "Math",
+    "trueAnswerPoint" : 100,
+    "falseAnswerPoint" : 100,
+    "bonusPoint" : 100,
+    "lowestScore" : 0,
+    "highestScore" : 1440
+  },
+  {
+    "gameId" : "Morse_Pirate",
+    "trueAnswerPoint" : 100,
+    "falseAnswerPoint" : 100,
+    "bonusPoint" : 100,
+    "lowestScore" : 0,
+    "highestScore" : 1000
+  },
+  {
+    "gameId" : "Tap_Gun",
+    "trueAnswerPoint" : 100,
+    "falseAnswerPoint" : 100,
+    "bonusPoint" : 100,
+    "lowestScore" : 0,
+    "highestScore" : 1200
+  },
+  {
+    "gameId" : "Mission_Pluto",
+    "trueAnswerPoint" : 100,
+    "falseAnswerPoint" : 100,
+    "bonusPoint" : 100,
+    "lowestScore" : 0,
+    "highestScore" : 1960
+  },
+  {
+    "gameId" : "Public_Transport",
+    "trueAnswerPoint" : 100,
+    "falseAnswerPoint" : 100,
+    "bonusPoint" : 100,
+    "lowestScore" : 0,
+    "highestScore" : 1200
+  },
+  {
+    "gameId" : "North_Express",
+    "trueAnswerPoint" : 100,
+    "falseAnswerPoint" : 100,
+    "bonusPoint" : 100,
+    "lowestScore" : 0,
+    "highestScore" : 990
+  },
+  {
+    "gameId" : "ATV_vs_Asphalt",
+    "trueAnswerPoint" : 100,
+    "falseAnswerPoint" : 250,
+    "bonusPoint" : 10,
+    "lowestScore" : 0,
+    "highestScore" : 1000
+  },
+  {
+    "gameId" : "Penguins",
+    "trueAnswerPoint" : 100,
+    "falseAnswerPoint" : 100,
+    "bonusPoint" : 100,
+    "lowestScore" : 0,
+    "highestScore" : 770
+  },
+  {
+    "gameId" : "Cashier",
+    "trueAnswerPoint" : 100,
+    "falseAnswerPoint" : 100,
+    "bonusPoint" : 100,
+    "lowestScore" : 0,
+    "highestScore" : 1000
+  },
+  {
+    "gameId" : "Airport_Craft",
+    "trueAnswerPoint" : 100,
+    "falseAnswerPoint" : 100,
+    "bonusPoint" : 100,
+    "lowestScore" : 0,
+    "highestScore" : 1000
+  },
+  {
+    "gameId" : "Pacman",
+    "trueAnswerPoint" : 100,
+    "falseAnswerPoint" : 100,
+    "bonusPoint" : 100,
+    "lowestScore" : 0,
+    "highestScore" : 1000
+  },
+  {
+    "gameId" : "Space_Burgers",
+    "trueAnswerPoint" : 100,
+    "falseAnswerPoint" : 100,
+    "bonusPoint" : 100,
+    "lowestScore" : 0,
+    "highestScore" : 1200
+  },
+  {
+    "gameId" : "Mini_Golf",
+    "trueAnswerPoint" : 100,
+    "falseAnswerPoint" : 100,
+    "bonusPoint" : 100,
+    "lowestScore" : 0,
+    "highestScore" : 875
+  },
+  {
+    "gameId" : "Bid_Battle",
+    "trueAnswerPoint" : 100,
+    "falseAnswerPoint" : 100,
+    "bonusPoint" : 100,
+    "lowestScore" : 0,
+    "highestScore" : 1000
+  },
+  {
+    "gameId" : "Stock_It_Up",
+    "trueAnswerPoint" : 100,
+    "falseAnswerPoint" : 100,
+    "bonusPoint" : 100,
+    "lowestScore" : 0,
+    "highestScore" : 1000
+  },
+  {
+    "gameId" : "Electro_Birds",
+    "trueAnswerPoint" : 100,
+    "falseAnswerPoint" : 100,
+    "bonusPoint" : 100,
+    "lowestScore" : 0,
+    "highestScore" : 1000
+  },
+  {
+    "gameId" : "Icy_Road",
+    "trueAnswerPoint" : 100,
+    "falseAnswerPoint" : 100,
+    "bonusPoint" : 100,
+    "lowestScore" : 0,
+    "highestScore" : 1000
+  },
+  {
+    "gameId" : "Highway_Control",
+    "trueAnswerPoint" : 100,
+    "falseAnswerPoint" : 100,
+    "bonusPoint" : 100,
+    "lowestScore" : 0,
+    "highestScore" : 1000
+  },
+  {
+    "gameId" : "Table_Tennis",
+    "trueAnswerPoint" : 100,
+    "falseAnswerPoint" : 100,
+    "bonusPoint" : 100,
+    "lowestScore" : 0,
+    "highestScore" : 1000
+  }
+]

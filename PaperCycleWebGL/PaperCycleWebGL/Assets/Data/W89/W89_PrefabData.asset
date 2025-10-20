@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6c39ba8aed76c746a49dfcb7eb6dcf2, type: 3}
+  m_Name: W89_PrefabData
+  m_EditorClassIdentifier: 
+  _paperPrefab: {fileID: 1154638629313005120, guid: 128341ccbcabe884eaecdb896cf38f11,
+    type: 3}
+  _roadPrefab: {fileID: 6967198844602997539, guid: 31d89815347a0b745945ff380281c21a,
+    type: 3}
+  _housePrefabs:
+  - {fileID: 1186977494312245471, guid: 9695be32407e3524bb851138d149f9ed, type: 3}
+  - {fileID: 6879184434299015868, guid: f82db9d19d1aa4549b0e0c7018766a4d, type: 3}
+  - {fileID: 146804844803001788, guid: 91ba0e9ad7f07674f95d110cd71e2193, type: 3}
+  - {fileID: 1206198435787749090, guid: c521caf24edc3714b81fe5e74810251f, type: 3}
+  - {fileID: 7193487955456504141, guid: 4dc7a30f756bff340888c1f5c857583c, type: 3}
+  - {fileID: 2868610099334278861, guid: 764eb1f4c60de4e4b8e9ff0e749804f1, type: 3}

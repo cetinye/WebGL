@@ -1,0 +1,143 @@
+[
+  {
+    "GameId": 3,
+    "TutorialItemList": [
+      {
+        "ID": 0,
+        "Description": "Tap on a square on the lighter part of suitcase.",
+        "ExpectedActionID": 0
+      },
+      {
+        "ID": 1,
+        "Description": "You failed. Let's try again. Tap on a square to place your object.",
+        "ExpectedActionID": 0
+      },
+      {
+        "ID": 2,
+        "Description": "You succeeded. Let's go on!",
+        "ExpectedActionID": 0
+      }
+    ,
+      {
+        "ID": 3,
+        "Description": "Let's go on!",
+        "ExpectedActionID": 0
+      }
+    ]
+  },
+  {
+    "GameId": 10,
+    "TutorialItemList": [
+      {
+        "ID": 0,
+        "Description": "Welcome Captain!\nYou can swipe to view the high seas! Let's find a ship, arrows will guide you.",
+        "ExpectedActionID": 0
+      },
+      {
+        "ID": 1,
+        "Description": "You can connect to a ship's control system by typing it's morse code\nHolding the morse button types a dash, clicking types a dot. Try it yourself!",
+        "ExpectedActionID": 0
+      },
+      {
+        "ID": 2,
+        "Description": "You can maneuver with the joystick.",
+        "ExpectedActionID": 0
+      },
+      {
+        "ID": 3,
+        "Description": "You can hold the boost lever to increase the speed.",
+        "ExpectedActionID": 0
+      },
+      {
+        "ID": 4,
+        "Description": "Your goal is to help ships reach their target which is indicated with a lighthouse icon.",
+        "ExpectedActionID": 0
+      },
+      {
+        "ID": 5,
+        "Description": "Now, control the ship between the yellow lines.",
+        "ExpectedActionID": 0
+      },
+      {
+        "ID": 6,
+        "Description": "Perfect. Good luck!",
+        "ExpectedActionID": 0
+      }
+    ]
+  },
+  {
+    "GameId": 5,
+    "TutorialItemList": [
+      {
+        "ID": 0,
+        "Description": "You can control the rabbit using the buttons below.",
+        "ExpectedActionID": 0
+      },
+      {
+        "ID": 1,
+        "Description": "Your target is to reach to carrot.",
+        "ExpectedActionID": 0
+      },
+      {
+        "ID": 2,
+        "Description": "But you have a rival! So don't let the turtle pass you.",
+        "ExpectedActionID": 0
+      },
+      {
+        "ID": 3,
+        "Description": "The maze can rotate, but the buttons won't. Use the pointer to orient yourself correctly. ",
+        "ExpectedActionID": 0
+      }
+    ]
+  },
+  {
+    "GameId": 7,
+    "TutorialItemList": [
+      {
+        "ID": 0,
+        "Description": "Your goal is to visit touristic cities with the cheapest way possible with your camper.  Select a city and let's start!",
+        "ExpectedActionID": 0
+      },
+      {
+        "ID": 1,
+        "Description": "Every tile on the map has a cost which is indicated by it's color. Keep their values in mind.",
+        "ExpectedActionID": 0
+      },
+      {
+        "ID": 2,
+        "Description": "If you forget them, you can look back at them anytime from the button. However, you will lose some points.",
+        "ExpectedActionID": 0
+      },
+      {
+        "ID": 3,
+        "Description": "After you take a peek, you can close the panel by clicking the same button.",
+        "ExpectedActionID": 0
+      },
+      {
+        "ID": 4,
+        "Description": "Now you can drive your camper with the controller below. Good Luck!",
+        "ExpectedActionID": 0
+      }
+    ]
+  },
+  {
+    "GameId": 13,
+    "TutorialItemList": [
+      {
+        "ID": 0,
+        "Description": "In this game, you are a bus driver.",
+        "ExpectedActionID": 0
+      },
+      {
+        "ID": 1,
+        "Description": "Every passenger has an icon that shows which stop they will get off.",
+        "ExpectedActionID": 0
+      },
+      {
+        "ID": 2,
+        "Description": "Remember passengers' desired destination and answer the questions accordingly. Good Luck!",
+        "ExpectedActionID": 0
+      }
+    ]
+  }
+]

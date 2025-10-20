@@ -1,0 +1,183 @@
+[
+	{
+		"workoutID" : 0,
+		"workoutDifficulty" : 1,
+		"name" : "Hafıza Ustalık Maratonu",
+		"shortDescription" : "Dikkat alt süreçlerinizi geliştirin",
+		"description": "Dikkat, çevredeki belirli bilgilere odaklanıp diğer uyaranları görmezden gelme yetisidir. Sadece bir seçim süreci değil, aynı zamanda uyanıklık, konsantrasyon ve aramayı da ifade eder.\n\nDikkat, günlük hayatımızda kullandığımız temel bilişsel işlevlerden biridir. Güçlü bir dikkat yeteneğine sahip olmak, daha iyi öğrenmemizi, önemli bilgilere odaklanmamızı, belirli görevleri tamamlamamızı, aynı anda birden fazla işi yapmamızı ve okul ve iş hayatında başarılı ilişkiler kurmamızı sağlar.\n\nDikkatin bir grup alt süreci vardır ve her türü, farklı durumlarda kullanılmak üzere gereken kendine özgü özelliklere sahiptir. Bu egzersiz programı, dikkatin farklı türlerini eğitmek için ya tek bir şeye odaklanarak ya da dikkatinizi birden fazla göreve bölerek yapılan alıştırmalar içeren oyunlar sunar. Oyunlar seviyenize göre uyarlanır ve zorluk seviyesi becerilerinize ve ihtiyaçlarınıza göre ayarlanır.\n\nBu egzersiz programı, dikkat becerilerini geliştirmek ve dikkat süresini artırmak isteyen her yaştan insan için uygundur.",
+		"isEnabled": true,
+		"includedGames" : ["Cashier", "Sweet_Memory", "Public_Transport"],
+		"workoutMainCategory" : "Memory",
+		"recommendedRepeatInterval" : 7,
+		"workoutB2BID" : "9ef363e7-bf9a-4306-8f9c-8e8ba6eff469"
+	},
+
+	{
+		"workoutID" : 1,
+		"workoutDifficulty" : 1,
+		"name" : "Konsantrasyon Zen Bölgesi",
+		"shortDescription" : "Zihninizi harekete geçirmek için hızlı ve basit egzersizler",
+		"description": "Bu hızlı esneme egzersizi, zihninizi hızlı ve basit bir şekilde harekete geçirmek için tasarlanmıştır. Zihninizi harekete geçirmek ve beyninizi canlandırmak için bu 10 dakikalık hızlı beyin egzersizini günlük rutininize ekleyin.\n\nHızlı ve basit oyunların yanı sıra, bu egzersiz programı Farkındalık Nedir alıştırması ile bilinçli bir başlangıç sunar. Bu farkındalık girişimi, anda kalmanın ve odaklanmanın temellerini öğretir, gününüze daha sakin ve dengeli bir zihinle yaklaşmanıza yardımcı olur. Bu kısa farkındalık pratiğini entegre ederek, egzersiz hem zihinsel berraklığınızı hem de ardından gelen oyunlara tam anlamıyla katılma yeteneğinizi artırır.\n\nBu egzersizi her yerde ve her zaman, sabah, öğle arası veya uyumadan önce yapabilirsiniz. Sadece 10 dakikanızı ayırarak yoğun bir güne hazırlanın ya da yorucu bir günün ardından zihninizi sıfırlayın.\n\nBu egzersiz programı, her yaştan ve özellikle beyin egzersizlerine daha az vakti olan kişiler için uygundur. Bu egzersiz programında yer alan oyunlar, kısa ve basit oyunlardır.",
+		"isEnabled": true,
+		"includedGames" : ["What_Is_Mindfulness", "Lets_Hire", "A_Way_To_Home", "Highway_Control"],
+		"workoutMainCategory" : "Activating Workout",
+		"recommendedRepeatInterval" : 1,
+		"workoutB2BID" : "9ef36496-2a60-4814-9f99-5f10d35fbe4e"
+	},
+	
+	{
+		"workoutID" : 2,
+		"workoutDifficulty" : 1,
+		"name" : "Problem Çözme Salonu",
+		"shortDescription" : "Problem çözme becerilerinizi geliştirin",
+		"description": "Problem çözme, bir sorunu tanımlama, analiz etme, olası çözümler geliştirme ve uygun eylem planını uygulama sürecidir.\n\nProblem çözme, her insanın günlük yaşamının bir parçasıdır ve çok erken yaşlarda gelişir. İnsanlar yaşamları boyunca ilerledikçe, problem çözme becerilerini geliştirmek ve iyileştirmek, giderek daha karmaşık problemleri çözmelerine olanak tanır. Güçlü problem çözme becerilerine sahip kişiler, günlük yaşamda, okulda ve iş yerinde karmaşık durumları başarıyla yönetebilir ve sorunları daha verimli bir şekilde çözebilir.\n\nProblem çözme becerileri, eğitim ve pratik yoluyla geliştirilebilir. Bu egzersiz programı, işlem hızı, planlama ve mantıksal akıl yürütme yetenekleri gerektiren oyunlar aracılığıyla problem çözme becerilerini eğitmek için tasarlanmıştır. Oyunlar seviyenize göre uyarlanır ve zorluk seviyesi, becerilerinize ve ihtiyaçlarınıza göre ayarlanır.\n\nBu egzersiz programı, her yaştan ve özellikle problem çözme becerilerini geliştirmek isteyen kişiler için uygundur.",
+		"isEnabled": true,
+		"includedGames" : ["Grand_Tour", "Melting_Rush", "Math_Of_Fuel"],
+		"workoutMainCategory" : "Problem-Solving",
+		"recommendedRepeatInterval" : 7,
+		"workoutB2BID" : "9ef36540-d35e-4b11-84c7-87e4361f2eff"
+	},
+
+	{
+		"workoutID" : 3,
+		"workoutDifficulty" : 1,
+		"name" : "Dikkat Artırıcı Antrenmanlar",
+		"shortDescription" : "Görsel ve mekansal becerilerinizi test edin ve geliştirin",
+		"description": "Görsel ve mekansal beceriler, çevremizi gözlerimiz aracılığıyla algılama, nesnelerin fiziksel konumlarını tanıma ve nesneler ile çevremizdeki ortam arasındaki ilişkilerin farkında olma yeteneğidir.\n\nGüçlü görsel ve mekansal algı becerilerine sahip olmak, çevremizdeki dünyayı anlamamızı, nesneleri farklı açılardan hayal etmemizi, bir nesneyi zihinsel olarak canlandırmamızı ve iki ile üç boyutta düşünmemizi sağlar. Zihinsel imgelerimizi problem çözme, zihinsel hesaplama, akıl yürütme, olayları öngörme ve daha birçok süreç için kullanırız. Bu nedenle, çevremizi anlamak için günlük yaşamımızda temel bir beceridir.\n\nBu egzersiz programı, tahmin etme ve gerçekleştirme yeteneklerini kullanarak görsel ve mekansal becerileri eğitmeye odaklanan oyunlar içerir. Oyunlar seviyenize göre uyarlanır ve zorluk seviyesi, becerilerinize ve ihtiyaçlarınıza göre ayarlanır.\n\nDikkatinizi ve görsel-mekansal farkındalığınızı artırmak için An’da Kalma Egzersizi ile başlamanızı öneririz. Bu farkındalık pratiği, dikkatinizi anında bulunduğunuz çevreye odaklamanızı teşvik eder ve mekansal ilişkileri ve fiziksel detayları daha iyi algılamanıza yardımcı olur. Zihninizi sakinleştirerek ve odağınızı keskinleştirerek, bu egzersiz programındaki oyunlardan tam anlamıyla faydalanmaya hazır olmanızı sağlar.\n\nBu egzersiz programı, her yaştan ve görsel ve mekansal algı becerilerini geliştirmek isteyen kişiler için uygundur.",
+		"isEnabled": true,
+		"includedGames" : ["Staying_In_The_Moment_Exercise", "Marine_Management", "Christmas_Traffic", "Space_Burgers"],
+		"workoutMainCategory" : "Perception",
+		"recommendedRepeatInterval" : 7,
+		"workoutB2BID" : "9ef3659c-c8d0-4069-84b4-f8753e35f2d1"
+	},
+	
+	{
+		"workoutID" : 4,
+		"workoutDifficulty" : 1,
+		"name" : "Mantık Bulmaca Görevi",
+		"shortDescription" : "Koordinasyon becerilerinizi geliştirin",
+		"description": "Göz-el koordinasyonu, ellerimizi ve gözlerimizi aynı anda kullanmamızı gerektiren eylemleri gerçekleştirme ve aktiviteleri yapma yeteneğidir. Bu, algısal ve motor becerilerimizin ortak bir çabasını gerektirir.\n\nGöz-el koordinasyonu becerilerini, yazı yazma, yemek yeme, araba kullanma ve fiziksel aktiviteler yapma gibi gözlerimizi ve ellerimizi birlikte kullanmamız gereken neredeyse her günlük aktivitede kullanırız.\n\nAraştırmalar, göz-el koordinasyonu ile öğrenme yetenekleri ve iletişim becerileri arasında güçlü bir korelasyon olduğunu göstermektedir. Güçlü göz-el koordinasyonu becerilerine sahip kişiler, aynı zamanda daha hızlı tepki süresine, gelişmiş atletik yeteneklere ve çevikliğe sahiptir.\n\nBu egzersiz programı, algısal ve motor becerilerinizi kullanmanız gereken oyunlar aracılığıyla göz-el koordinasyonu eğitimi üzerine odaklanır. Oyunlar seviyenize göre uyarlanır ve zorluk seviyesi, becerilerinize ve ihtiyaçlarınıza göre ayarlanır.\n\nBu egzersiz programı, her yaştan ve özellikle göz-el koordinasyonu becerilerini geliştirmek isteyen kişiler için uygundur.",
+		"isEnabled": true,
+		"includedGames" : ["Mini_Golf", "Stock_It_Up", "Double_Boarders"],
+		"workoutMainCategory" : "Better Hand-Eye Coordination",
+		"recommendedRepeatInterval" : 7,
+		"workoutB2BID" : "9ef36636-93ad-4492-a96a-b70b269323b3"
+	},
+	
+	{
+		"workoutID" : 5,
+		"workoutDifficulty" : 1,
+		"name" : "Zihinsel Denge Egzersizleri",
+		"shortDescription" : "Sıkıcı online toplantılardan eğlenceli oyunlarla kaçın",
+		"description": "Bazen uzun saatler boyunca online toplantılarda vakit geçiriyoruz ve bu oldukça sıkıcı hale gelebiliyor.\n\nBu egzersiz programı, bu sıkıcı toplantılar sırasında sizi eğlendirmek için tasarlandı. Dikkat süresi, problem çözme ve hafıza gibi bilişsel işlevlerinizi harekete geçiren eğlenceli ve ilgi çekici oyunların yanı sıra, bu programda İlk Beden Taraması farkındalık egzersizi de yer alıyor.\n\nİlk Beden Taraması, fiziksel hislerin farkına varmanıza yardımcı olarak uzun toplantılar sırasında biriken gerginliği serbest bırakmanızı sağlar. Bilişsel oyunları bu sakinleştirici farkındalık pratiğiyle birleştirerek, bu egzersiz programı hem odaklanmanızı ve bilişsel becerilerinizi geliştirir hem de daha rahat ve enerjik hissetmenize yardımcı olur.\n\nUzun saatler süren sıkıcı online toplantılardan kaçmak ve aynı zamanda iş performansınızı etkileyebilecek bilişsel becerilerinizi geliştirmek istediğinizde bu özel tasarlanmış egzersiz programının keyfini çıkaracaksınız.\n\nBu egzersiz programı, uzun saatler boyunca sıkıcı online toplantılarda vakit geçirmek zorunda kalan çalışanlar için özel olarak hazırlanmıştır.",
+		"isEnabled": true,
+		"includedGames" : ["First_Body_Scan", "Mission_Pluto", "Time_Trekker", "Color_Clique"],
+		"workoutMainCategory" : "Boring Meetings",
+		"recommendedRepeatInterval" : 3,
+		"workoutB2BID" : "9ef366c6-3ef8-4326-b86c-044e7c3a3f2c"
+	},
+	
+	{
+		"workoutID" : 6,
+		"workoutDifficulty" : 1,
+		"name" : "Hafıza Kartı Meydan Okuması",
+		"shortDescription" : "Eğlenceli kart eşleştirme oyunlarıyla hafızanızı test edin ve geliştirin!",
+		"description": "Hiç anahtarlarınızı nereye koyduğunuzu unuttuğunuz ya da yeni duyduğunuz bir ismi hatırlamakta zorlandığınız oldu mu? Hafıza, günlük yaşamda temel bir beceridir ve tıpkı bir kas gibi keskin kalması için düzenli egzersiz yapması gerekir.\n\nHafıza Kartı Mücadelesi, eğlenceli ve etkileşimli kart tabanlı alıştırmalarla çalışma belleğinizi, desen tanıma yeteneğinizi ve bilişsel esnekliğinizi geliştirmek için tasarlanmıştır. Bu zorlu alıştırmalar beyninizi harekete geçirir, hatırlama hızınızı artırır ve önemli detayları akılda tutma yeteneğinizi güçlendirir.\n\nBu egzersiz programı ayrıca, zihinsel olarak anda kalmanıza, bilişsel yüklenmeyi azaltmanıza ve odaklanmanızı geliştirmenize yardımcı olan İlk Beden Taraması farkındalık egzersizini içerir. Bilişsel eğitim ve farkındalığın birleşimi, beyninizin performansını optimize ederken sizi hem meşgul hem de rahat tutar.\n\nHafıza hatırlama yeteneğini geliştirmek, dikkat keskinliğini artırmak ve beyin güçlendirici oyunlardan keyif almak isteyenler için mükemmel bir seçim olan Hafıza Kartı Mücadelesi, zihinsel çevikliğiniz için başvurabileceğiniz ideal egzersizdir!",
+		"isEnabled": true,
+		"includedGames" : ["Shift_And_Lift", "Memories_Of_The_Egyptian_Gods", "Arcane_Archive"],
+		"workoutMainCategory" : "Boring Meetings",
+		"recommendedRepeatInterval" : 3,
+		"workoutB2BID" : "9ef36764-2743-4200-9b9b-7f1e12d5e372"
+	},
+	
+	{
+		"workoutID" : 7,
+		"workoutDifficulty" : 1,
+		"name" : "Strateji Kampı",
+		"shortDescription" : "Beyninizin tüm temel bölümlerini tek bir egzersizle çalıştırın",
+		"description": "Bilişsel antrenman, zihinsel iyilik hali, beyne bağlı yeteneklerin gelişimi, okul ve iş hayatında daha iyi performans için önemlidir.\n\nBu kapsamlı beyin egzersizi, beyninizin temel bölümlerini hedeflemek ve çeşitli oyunlar aracılığıyla her bir bölümü güçlendirmek için tasarlanmıştır.\n\nHafıza, problem çözme, koordinasyon, dikkat ve algı gibi ana alanlardaki eğlenceli ve zorlu oyunlar sayesinde, tüm temel bilişsel işlevlerinizi tek bir egzersizle çalıştırabilirsiniz.\n\nTemel bilişsel becerilerinizi güçlendirebilir ve beyin gücünüzü artırabilirsiniz.\n\nBu egzersiz, her yaştan ve temel bilişsel becerilerini tek bir egzersizle geliştirmek isteyen kişiler için uygundur.",
+		"isEnabled": true,
+		"includedGames" : ["Morse_Pirate", "Arcane_Archive", "Electro_Birds"],
+		"workoutMainCategory" : "Combined Workout",
+		"recommendedRepeatInterval" : 1,
+		"workoutB2BID" : "9ef36817-f926-4327-953a-0d3aa5d3af60"
+	},
+	
+	{
+		"workoutID" : 8,
+		"workoutDifficulty" : 1,
+		"name" : "Yaratıcı Düşünme Döngüsü",
+		"shortDescription" : "Güne yenilenmiş bir beyinle başlayın",
+		"description": "Beynimiz, günlük aktivitelerimizi gerçekleştirmek, önemli konuları hatırlamak, son teslim tarihlerine yetişmek, problemleri çözmek, görevlere odaklanmak ve bilişsel beceriler gerektiren birçok faaliyeti yerine getirmek için sürekli çalışır.\n\nBu nedenle, yoğun bir güne hazır olmak için beynimizi ısıtmak önemlidir. Sabah yapılan hızlı beyin egzersizleri, zihninizi harekete geçirmenize, beyin fonksiyonlarınızı geliştirmenize ve günün geri kalanı için zihninizi keskin tutmanıza yardımcı olur.\n\nBu egzersiz programı, zihinsel berraklığınızı ve hazırlığınızı daha da artırmak için hafıza, odaklanma ve zihinsel matematik oyunlarını bir farkındalık pratiği ile birleştirir. Oyunlara başlamadan önce Farkındalık ve Kabul egzersizini yapmanızı öneririz. Bu farkındalık aktivitesi, duraklayıp mevcut durumunuza odaklanmanıza ve zihninizi temizlemenize teşvik eder, böylece görevlere sakinlik ve zihinsel berraklıkla yaklaşmanızı sağlar.\n\nBu egzersiz programı, hafıza, odaklanma ve zihinsel matematik becerilerinizi çalıştıran oyunlarla beyninizi ısıtmak ve zihinsel berraklığı teşvik etmek için özel olarak tasarlanmıştır.\n\nBu egzersiz, her yaştan ve güne yenilenmiş bir beyinle başlamak isteyen kişiler için uygundur.",
+		"isEnabled": true,
+		"includedGames" : ["Awareness_And_Acceptance", "Tap_Gun", "To_Be_Or_Not_To_Be", "Neon_Racing"],
+		"workoutMainCategory" : "Morning Workout",
+		"recommendedRepeatInterval" : 1,
+		"workoutB2BID" : "9ef36874-72f0-4caa-9a8b-a4c8d4273e96"
+	},
+	
+	{
+		"workoutID" : 9,
+		"workoutDifficulty" : 1,
+		"name" : "Beyin Fırtınası Atölyesi",
+		"shortDescription" : "Araba kullanırken ihtiyaç duyacağınız becerileri geliştirin",
+		"description": "Araba kullanmak karmaşık bir süreçtir ve sürüş sırasında el-göz koordinasyonu, algı, dikkat, tepki süresi, planlama ve tahmin gibi çeşitli bilişsel yeteneklerimizi kullanmamız gerekir.\n\nÖrneğin, el-göz koordinasyonu becerilerimiz, arabayı şeridin ortasında tutmamıza yardımcı olur.\n\nDiğer araçlara, işaretlere ve uyarılara dikkat etmeli ve hızlanma gibi davranışları değiştirmek ve beklenmedik durumlara uyum sağlamak için vites değiştirme becerilerimizi kullanmalıyız. Ayrıca, araçların mesafesini ve hızını sürekli olarak tahmin eder ve çevremizdeki alanı yorumlarız.\n\nAraba kullanırken güçlü bilişsel yetenekler, doğru kararlar almamıza, uyarıcılara doğru zamanda tepki vermemize ve dikkatli kalmamıza yardımcı olur.\n\nBu egzersiz programı, araba kullanırken uygulamamız gereken belirli bilişsel becerileri eğitmek ve güçlendirmek için tasarlanmıştır ve bu amaç için özenle seçilmiş oyunlar içermektedir.\n\nBu egzersiz programı, ehliyet sınavına hazırlananlar veya yeni araç kullanmaya başlayanlar için uygundur. Ayrıca, deneyimli sürücüler de bu egzersizle becerilerini güçlendirebilir.",
+		"isEnabled": true,
+		"includedGames" : ["Atom_Alchemist", "Shift_And_Lift", "Grand_Tour"],
+		"workoutMainCategory" : "Driving Skills",
+		"recommendedRepeatInterval" : 7,
+		"workoutB2BID" : "9ef368d0-faae-42d3-bfea-4dab0040ef49"
+	},
+	
+	{
+		"workoutID" : 10,
+		"workoutDifficulty" : 1,
+		"name" : "Müzik ve Matematik Hareketi",
+		"shortDescription" : "Beynini kolay oyunlarla ısıt",
+		"description": "Beyin oyunlarında yeniyseniz veya zorlu zeka sorularıyla uğraşmak istemiyorsanız, bu egzersiz tam size göre.\n\nBu egzersiz programı, zihninizi kolay bir şekilde çalıştırmak ve sadece oyun oynuyormuş gibi hissetmenizi sağlamak için özel olarak tasarlandı. Kolay oyunlarla beyninizi eğitebilir ve aynı zamanda eğlenceli oyunların keyfini çıkarabilirsiniz.\n\nBu egzersiz programı, beyin oyunlarında başlangıç seviyesinde olanlar ve sadece kolay oyunlarla beyinlerini ısıtmak isteyen kişiler için uygundur. Bu egzersizi istediğiniz zaman ve istediğiniz yerde yapabilirsiniz. Zihninizi çalıştırmak için sadece birkaç dakikaya ihtiyacınız var.",
+		"isEnabled": true,
+		"includedGames" : ["Rhythm_Of_Forest", "Bid_Battle", "Paper_Cycle"],
+		"workoutMainCategory" : "Fun Games",
+		"recommendedRepeatInterval" : 1,
+		"workoutB2BID" : "9ef36942-8e4c-42a0-80bc-69f4f801090b"
+	},
+	
+	{
+		"workoutID" : 11,
+		"workoutDifficulty" : 1,
+		"name" : "Zihin Esnekliği Egzersizleri",
+		"shortDescription" : "Farklı hafıza türlerini ve işlevlerini keskinleştirin",
+		"description": "Hafıza, bilgi edinme, depolama, saklama ve geri getirme yeteneğidir. Hayatımızdaki en temel bilişsel işlevlerden biridir ve günlük aktivitelerimizde önemli bir rol oynar. Hafızamızı sadece bilgileri ve duyguları hatırlamak için değil, aynı zamanda okuma, yazma, akıl yürütme ve zihinsel hesaplama gibi bilişsel aktiviteleri gerçekleştirmek için de kullanırız.\n\nİyi bir hafıza, daha iyi öğrenmemize, günlük aktiviteleri gerçekleştirmemize ve okul ile iş hayatında görevlerimizi yerine getirmemize yardımcı olur. Bu yüzden beynimizi eğitmek ve hafıza becerilerimizi güçlendirmek önemlidir. Beyninizi ne kadar çok çalıştırırsanız, bilgiyi kodlama, depolama ve hatırlama yeteneğiniz o kadar iyi olacaktır.\n\nFarklı işlevlere sahip çeşitli hafıza türleri vardır. Bu egzersiz programı, bilgi işleme ve hatırlama yeteneğinizi kullanarak bu farklı hafıza türlerini eğiten oyunlar içerir. Oyunlar seviyenize göre uyarlanır ve zorluk seviyesi, becerilerinize ve ihtiyaçlarınıza göre ayarlanır.\n\nBu egzersiz programındaki oyunlara başlamadan önce Basit Odaklanma Egzersizi Meditasyonu ile başlamanızı öneririz. Bu kısa farkındalık egzersizi, dikkatinizi toplamanıza, zihninizi sakinleştirmenize ve beyninizi etkili bir hafıza eğitimi için hazırlamanıza yardımcı olur. Düşüncelerinizi odaklayarak ve dikkat dağıtıcı unsurları ortadan kaldırarak, bu egzersiz programındaki oyunlardan en iyi şekilde yararlanabilirsiniz.\n\nBu egzersiz, tüm yaş grupları ve hafıza becerilerini keskinleştirmek isteyen kişiler için uygundur.",
+		"isEnabled": true,
+		"includedGames" : ["Simple_Focus_Exercise", "Icy_Road", "Jungle_Race", "Reflecto_Gear"],
+		"workoutMainCategory" : "Memory",
+		"recommendedRepeatInterval" : 7,
+		"workoutB2BID" : "9ef369a6-43b8-4e99-82b0-d5219d718538"
+	},
+
+	{
+		"workoutID" : 12,
+		"workoutDifficulty" : 1,
+		"name" : "Sanal Gerçeklik Deneyimi",
+		"shortDescription" : "Yoğun bir egzersizle beyninize meydan okuyun",
+		"description": "Beynine zorlu oyunlarla meydan okumak ister misin?\n\nBu yoğun egzersiz, yeni ve kaliteli zeka oyunları arayan kişiler için tamamen uygundur. Beyninizin sınırlarını zorlayabilir ve aynı zamanda eğlenebilirsiniz.\n\nBeyninizin keskin kalmasına yardımcı olacak bu zorlu beyin oyunlarını özenle seçtik. Bu egzersiz programında yer alan oyunlar, seviyeniz yükseldikçe daha da zorlaşır.\n\nBu egzersiz programı, beyin oyunlarında ileri seviyede olan ve bilişsel yeteneklerine meydan okumak isteyen kişiler için uygundur.",
+		"isEnabled": true,
+		"includedGames" : ["Nano_Inspector", "Customs_Scanner", "Garbage_Hunt"],
+		"workoutMainCategory" : "Challenging Games",
+		"recommendedRepeatInterval" : 1,
+		"workoutB2BID" : "9ef369f7-a4fd-4d61-ae46-e3678d9ddc85"
+	},
+
+	{
+		"workoutID" : 13,
+		"workoutDifficulty" : 1,
+		"name" : "Analitik Jimnastik",
+		"shortDescription" : "Kahve molasında eğlenceli beyin oyunları oynayın",
+		"description": "Çalışırken veya ders çalışırken ara vermek iyidir. Bu kısa molayı daha anlamlı hale getirecek birçok iyi fikir var.\n\nBu 10 dakikalık kahve molası egzersizi, stresli bir günün, ders çalışmanın veya çalışmanın arasındaki küçük bir molanızı keyifli ve daha verimli bir şekilde geçirmeniz için tasarlandı. Bu anlamlı egzersiz, eğlenceli oyunlar sayesinde günlük hayatın stresinden uzaklaşmanıza yardımcı olur, hafıza becerilerinizi geliştirir, konsantrasyon yeteneklerinizi artırır ve diğer bilişsel beceriler gerektiren görevlerdeki performansınızı olumlu yönde etkiler.\n\nBu egzersizi istediğiniz zaman ve istediğiniz yerde yapabilirsiniz. Sadece kahvenizi alın ve beyniniz için faydalı eğlenceli oyunları oynayın.",
+		"isEnabled": true,
+		"includedGames" : ["Haunted_House", "Math", "The_Lost_Sudoku"],
+		"workoutMainCategory" : "A Little Break",
+		"recommendedRepeatInterval" : 1,
+		"workoutB2BID" : "9ef36be2-e4b9-4e0c-b81b-b969f2f90982"
+	}
+]

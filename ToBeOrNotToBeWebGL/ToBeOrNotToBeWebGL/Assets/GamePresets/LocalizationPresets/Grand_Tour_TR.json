@@ -1,0 +1,14 @@
+[
+    {
+        "key":"level",
+        "value":"Seviye: "
+    },
+    {
+        "key":"score",
+        "value":"Puan: "
+    },
+    {
+        "key":"continue",
+        "value":"Devam et"
+    }
+]

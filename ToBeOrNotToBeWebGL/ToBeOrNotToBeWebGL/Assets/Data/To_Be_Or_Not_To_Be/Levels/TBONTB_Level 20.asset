@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95ef8b18ce4d80349a8dbf43bfa693f2, type: 3}
+  m_Name: TBONTB_Level 20
+  m_EditorClassIdentifier: 
+  levelId: 20
+  colorIncluded: 1
+  modelNameIncluded: 1
+  positiveStatementIncluded: 1
+  negativeStatementIncluded: 1
+  questionLoadTime: 2
+  remainingTimeToAnswer: 0.26
+  totalTime: 2.26
+  requiredMinQuestionsToSolve: 5
+  levelUpCriteria: 5
+  levelDownCriteria: 2
+  maxInLevel: 500
+  gameScore: 10000
+  minRequiredScore: 300
+  penaltyPoints: 250

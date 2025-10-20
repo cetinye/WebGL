@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 22dca88838fe4be4ca6253d1d531ca8d, type: 3}
+  m_Name: CakeData
+  m_EditorClassIdentifier: 
+  CakePrefabs:
+  - {fileID: 7823262068813417081, guid: 0354eab564ab7a74aa8c8647a3bf2c05, type: 3}
+  - {fileID: 8969729632029198380, guid: 1cf5ec753d1df8548a05fdfc403dbf10, type: 3}
+  - {fileID: 3797356699133540130, guid: fe68bc9ba86a3c54e91d71f36d3ffe29, type: 3}
+  - {fileID: 7486847509167978439, guid: 969e7cdfe4fb5b949bcf07aafc8bfc0f, type: 3}
+  - {fileID: 7130019889490189719, guid: f83eb90a824d70b4896adcbc3d227519, type: 3}
+  - {fileID: 6314545509323967752, guid: f30d3119e7d09194fafb1a58012e5b1d, type: 3}
+  Colors:
+  - {r: 0.5882353, g: 0.23529412, b: 0.08235294, a: 1}
+  - {r: 0.972549, g: 0.9019608, b: 0.7254902, a: 1}
+  - {r: 0.99215686, g: 0.54901963, b: 0.74509805, a: 1}
+  - {r: 0.972549, g: 0.8901961, b: 0.3647059, a: 1}
+  - {r: 0.972549, g: 0.16862746, b: 0.21568628, a: 1}
+  - {r: 0.5372549, g: 0.34901962, b: 0.972549, a: 1}
+  Toppings:
+  - {fileID: 21300000, guid: cd49c7daeb82606459d4586b224445ed, type: 3}
+  - {fileID: 21300000, guid: bb1ee94fba6ec63458701c706cf0459d, type: 3}
+  - {fileID: 21300000, guid: ed085a85181fe4147a323a96995910b0, type: 3}
+  - {fileID: 21300000, guid: eb660d8e3c8e7a8488263776712b61a9, type: 3}
+  - {fileID: 21300000, guid: 8fa2fcb66b058004d8db6b2eafad1e31, type: 3}
+  Candles:
+  - {fileID: 21300000, guid: c0f8abf0903a0974d8a0fdcf593874fe, type: 3}
+  - {fileID: 21300000, guid: 4cb402f6e74ac6945b29353bf0f0afd0, type: 3}
+  - {fileID: 21300000, guid: cdcadc15a292874448db05e13788c11c, type: 3}
+  Numbered_Candles:
+  - {fileID: 21300000, guid: 29153f8074962dc4bb9ae30efaeae037, type: 3}
+  - {fileID: 21300000, guid: 545e1832ef1e5584a9b92a6973a41685, type: 3}
+  - {fileID: 21300000, guid: 2fff8dd3199026b44b5d7e5c674b9256, type: 3}
+  - {fileID: 21300000, guid: 12486ebad783d714ea2b84041f4a6a5b, type: 3}
+  - {fileID: 21300000, guid: 03b595bd3821f914c944242f948d3bf9, type: 3}
+  - {fileID: 21300000, guid: ffd121bda00e866409843a3c98bd983b, type: 3}
+  - {fileID: 21300000, guid: d6b5e5fb0daa5454e8cdb8ad8d5b4d7b, type: 3}
+  - {fileID: 21300000, guid: d86c1169716a8af4bab9dc02a0b80bfa, type: 3}
+  - {fileID: 21300000, guid: 27e8bbc93ff9e6348a8c0ffb779becc9, type: 3}
+  - {fileID: 21300000, guid: fad8cd6a96efcbe45a66caf89058e065, type: 3}

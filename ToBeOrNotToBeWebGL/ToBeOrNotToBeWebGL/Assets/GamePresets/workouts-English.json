@@ -1,0 +1,183 @@
+[
+	{
+		"workoutID" : 0,
+		"workoutDifficulty" : 1,
+		"name" : "Memory Mastery Marathon",
+		"shortDescription" : "Improve your group of attention sub-processes",
+		"description": "Attention is an ability to actively choose and concentrate on specific information in the environment while ignoring other stimulus. It is not only a process of selection but also refers alertness, concentration and search.\n\nAttention is one of the essential cognitive function that we use in our daily lives. Having a strong attention abilities allow us to learn better, concentrate on important information, complete specific tasks, perform multitask, and build successful relationships in school and work life.\n\nAttention has a group of sub-processes and each type has its features that are required to use in different situations. This workout covers games that include exercises to train different types of attention by either focusing on a single thing or divide your concentration among different tasks. Games are adapted to your level and the difficulty level is being adjusted based on your skills and needs.\n\nThis workout is suitable for all ages and people who want to improve their concentration skills and increase their attention span.",
+		"isEnabled": true,
+		"includedGames" : ["Cashier", "Sweet_Memory", "Public_Transport"],
+		"workoutMainCategory" : "Memory",
+		"recommendedRepeatInterval" : 7,
+		"workoutB2BID" : "9ef363e7-bf9a-4306-8f9c-8e8ba6eff469"
+	},
+
+	{
+		"workoutID" : 1,
+		"workoutDifficulty" : 1,
+		"name" : "Concentration Zen Zone",
+		"shortDescription" : "Quick and simple workouts to activate your mind",
+		"description": "This quick stretching workout is designed to activate your mind in a quick and simple way. Put this 10-minute quick brain workout into your daily routine to activate your mind and energize your brain.\n\nIn addition to quick and simple games, this workout offers a mindful start with the What is Mindfulness exercise. This introduction to mindfulness teaches you the basics of staying present and focused, helping you approach your day with a calmer and more balanced mind. By integrating this short mindfulness practice, the workout enhances both your mental clarity and your ability to fully engage in the games that follow.\n\nYou can do this workout anywhere and anytime, in the morning, midday, or before sleep. Just set aside 10 minutes to prepare yourself for the busy day ahead or reset your mind after an exhausting day.\n\nThis workout is suitable for all ages and for people who particularly have less time for brain exercises. The games included in this workout are short and simple games.",
+		"isEnabled": true,
+		"includedGames" : ["What_Is_Mindfulness", "Lets_Hire", "A_Way_To_Home", "Highway_Control"],
+		"workoutMainCategory" : "Activating Workout",
+		"recommendedRepeatInterval" : 1,
+		"workoutB2BID" : "9ef36496-2a60-4814-9f99-5f10d35fbe4e"
+	},
+	
+	{
+		"workoutID" : 2,
+		"workoutDifficulty" : 1,
+		"name" : "Problem-Solving Gym",
+		"shortDescription" : "Enhance your problem-solving skills",
+		"description": "Problem-solving is a mental process of identifying a problem, analyzing it, developing possible solutions, and taking the appropriate course of action.\n\nProblem-solving is a part of every person's daily life and is established at a very early age. As a person goes through life, developing and refining problem-solving skills enable people to solve increasingly complex problems. People with strong problem-solving skills can successfully manage complex situations and solve problems more efficiently in their daily life, school life, and in workplace.\n\nProblem-solving skills can be improved through training and practice. This workout is designed to train problem-solving skills through games that require processing speed, planning and logical reasoning abilities. Games are adapted to your level and the difficulty level is being adjusted based on your skills and needs.\n\nThis workout is suitable for all ages and people who particularly want to improve their problem-solving skills.",
+		"isEnabled": true,
+		"includedGames" : ["Grand_Tour", "Melting_Rush", "Math_Of_Fuel"],
+		"workoutMainCategory" : "Problem-Solving",
+		"recommendedRepeatInterval" : 7,
+		"workoutB2BID" : "9ef36540-d35e-4b11-84c7-87e4361f2eff"
+	},
+
+	{
+		"workoutID" : 3,
+		"workoutDifficulty" : 1,
+		"name" : "Attention Boost Workouts",
+		"shortDescription" : "Test your visual and spatial skills and improve them",
+		"description": "Visual and spatial skills are the ability perceive surroundings through our eyes, recognizing physical locations of objects and be aware of relationships between objects and the environment around us.\n\nHaving strong visual and spatial perception skills allow us to understand the surrounding world, visualize objects from different angles, mentally imagine an object and think in two and three dimensions. We use our mental imagery for problem solving, mental calculation, reasoning, anticipating events and many more processes. Thus, it is an essential skill for our daily lives to understand our surroundings.\n\nThis workout includes games that mainly focus on training visual and spatial skills by using estimation and realization abilities as well. Games are adapted to your level and the difficulty level is being adjusted based on your skills and needs.\n\nTo enhance your focus and visual-spatial awareness, we recommend starting with the Staying in the Moment Exercise. This mindfulness practice encourages you to center your attention on your immediate surroundings, helping you better perceive spatial relationships and physical details. By calming your mind and sharpening your focus, this exercise ensures you are fully prepared to benefit from the games in this workout.\n\nThis workout is suitable for all ages and people who want to improve their visual and spatial perception skills.",
+		"isEnabled": true,
+		"includedGames" : ["Staying_In_The_Moment_Exercise", "Marine_Management", "Christmas_Traffic", "Space_Burgers"],
+		"workoutMainCategory" : "Perception",
+		"recommendedRepeatInterval" : 7,
+		"workoutB2BID" : "9ef3659c-c8d0-4069-84b4-f8753e35f2d1"
+	},
+	
+	{
+		"workoutID" : 4,
+		"workoutDifficulty" : 1,
+		"name" : "Logic Puzzle Quest",
+		"shortDescription" : "Improve your coordination skills",
+		"description": "Hand-eye coordination is an ability to perform actions and carry out activities that require the simultaneous use of hands and eyes. It requires a joint effort between our perceptual and motor skills.\n\nWe use hand-eye coordination skills almost in every daily activity that we need to use our eyes and hands together such as writing, eating, driving, and performing physical activities.\n\nResearchers found that there is a strong correlation between hand-eye coordination, learning abilities and communication skills. People who strong hand-eye coordination skills have also enhanced reaction time, improved athleticism and agility.\n\nThis workout focuses on hand-eye coordination training through the games you need to use your perceptual and motor skills. Games are adapted to your level and the difficulty level is being adjusted based on your skills and needs.\n\nThis workout is suitable for all ages and people who want to improve their hand-eye coordination skills specifically.",
+		"isEnabled": true,
+		"includedGames" : ["Mini_Golf", "Stock_It_Up", "Double_Boarders"],
+		"workoutMainCategory" : "Better Hand-Eye Coordination",
+		"recommendedRepeatInterval" : 7,
+		"workoutB2BID" : "9ef36636-93ad-4492-a96a-b70b269323b3"
+	},
+	
+	{
+		"workoutID" : 5,
+		"workoutDifficulty" : 1,
+		"name" : "Mind Balance Drills",
+		"shortDescription" : "Escape from online boring meetings with fun games",
+		"description": "Sometimes we are spending long hours in online meetings and it can be getting extremely boring.\n\nThis workout is designed to keep you entertained during these boring meetings. In addition to fun and engaging games that activate your brain and train cognitive functions such as attention span, problem-solving, and memory, this workout incorporates the First Body Scan mindfulness exercise.\n\nThe First Body Scan helps you become aware of physical sensations, allowing you to release tension accumulated during long meetings. By combining cognitive games with this calming mindfulness practice, this workout not only improves your focus and cognitive skills but also helps you feel more relaxed and energized.\n\nYou will be enjoying this specially designed workout when you want to escape from boring online meetings that last for many hours and also improve your cognitive skills that may affect your work performance.\n\nThis workout is specially prepared for employees who have to spend many hours at boring online meetings.",
+		"isEnabled": true,
+		"includedGames" : ["First_Body_Scan", "Mission_Pluto", "Time_Trekker", "Color_Clique"],
+		"workoutMainCategory" : "Boring Meetings",
+		"recommendedRepeatInterval" : 3,
+		"workoutB2BID" : "9ef366c6-3ef8-4326-b86c-044e7c3a3f2c"
+	},
+	
+	{
+		"workoutID" : 6,
+		"workoutDifficulty" : 1,
+		"name" : "Memory Card Challenge",
+		"shortDescription" : "Test and enhance your memory with engaging card-matching games!",
+		"description": "Have you ever forgotten where you placed your keys or struggled to remember a name you just heard? Memory is an essential skill in daily life, and just like a muscle, it needs regular training to stay sharp.\n\nMemory Card Challenge is designed to boost your working memory, pattern recognition, and cognitive flexibility with fun and interactive card-based exercises. These challenges will stimulate your brain, enhance recall speed, and strengthen your ability to retain important details.\n\nThis workout also includes the First Body Scan mindfulness exercise, helping you stay mentally present, reduce cognitive overload, and improve focus. The combination of cognitive training and mindfulness will optimize your brain's performance while keeping you engaged and relaxed.\n\nPerfect for those who want to improve memory recall, sharpen their attention, and enjoy brain-boosting games, Memory Card Challenge is your go-to exercise for mental agility!",
+		"isEnabled": true,
+		"includedGames" : ["Shift_And_Lift", "Memories_Of_The_Egyptian_Gods", "Arcane_Archive"],
+		"workoutMainCategory" : "Boring Meetings",
+		"recommendedRepeatInterval" : 3,
+		"workoutB2BID" : "9ef36764-2743-4200-9b9b-7f1e12d5e372"
+	},
+	
+	{
+		"workoutID" : 7,
+		"workoutDifficulty" : 1,
+		"name" : "Strategy Bootcamp",
+		"shortDescription" : "Train your all core parts of your brain with one workout",
+		"description": "Cognitive training is important for mental well-being, improved brain-related abilities, better performance at school and work life.\n\nThis total brain workout is designed to target the core parts of your brain and make each part your brain stronger through various games.\n\nThanks to fun and challenging games in the main areas of memory, problem-solving, coordination, attention and perception, you will be able to train your all essential cognitive functions with a single workout.\n\nYou can strengthen your main cognitive skills and boost your brain power.\n\nThis workout is suitable for all ages and people who want to train their main cognitive skills with a single workout.",
+		"isEnabled": true,
+		"includedGames" : ["Morse_Pirate", "Arcane_Archive", "Electro_Birds"],
+		"workoutMainCategory" : "Combined Workout",
+		"recommendedRepeatInterval" : 1,
+		"workoutB2BID" : "9ef36817-f926-4327-953a-0d3aa5d3af60"
+	},
+	
+	{
+		"workoutID" : 8,
+		"workoutDifficulty" : 1,
+		"name" : "Creative Thinking Circuit",
+		"shortDescription" : "Start a day with refreshed brain",
+		"description": "Our brain is constantly working to perform our daily activities, remember important issues, keep up with deadlines, solve problems, concentrate on tasks, and many other activities that require cognitive skills.\n\nThus, it is important to warm up our brain to be ready for the busy day. Quick brain exercises in the morning help you stimulate your mind, enhance your brain functioning and keep your mind sharp for the rest of the day.\n\nThis workout combines memory, focus, and mental math games with a mindfulness practice to further enhance your mental clarity and readiness. Before starting the games, we recommend the Awareness and Acceptance exercise. This mindfulness activity encourages you to pause, focus on your present state, and clear your mind, enabling you to approach tasks with calmness and mental clarity.\n\nThis workout is specially designed to warm up your brain and encourage mental clarity through the games that exercise your memory, focus and mental math abilities before starting a busy day.\n\nThis workout is suitable for all ages and people who want to start a day with refreshed brain.",
+		"isEnabled": true,
+		"includedGames" : ["Awareness_And_Acceptance", "Tap_Gun", "To_Be_Or_Not_To_Be", "Neon_Racing"],
+		"workoutMainCategory" : "Morning Workout",
+		"recommendedRepeatInterval" : 1,
+		"workoutB2BID" : "9ef36874-72f0-4caa-9a8b-a4c8d4273e96"
+	},
+	
+	{
+		"workoutID" : 9,
+		"workoutDifficulty" : 1,
+		"name" : "Brainstorm Workshop",
+		"shortDescription" : "Improve the skills that you need to use while driving a car ",
+		"description": "Driving a car is a complex process and we need to apply our various cognitive abilities such as hand-eye coordination, perception, attention, response time, planning and estimation while driving a car.\n\nFor example, our hand-eye coordination abilities help us keep the car in the middle of the lane.\n\nWe need to pay attention to the other vehicles, signs and warnings and use our shifting abilities to adapt a behavior like accelerating to changing and unexpected situations. Moreover, we constantly estimate the distance of vehicles and their speed and interpret the space around us.\n\nWhile driving a car, strong cognitive abilities help us make proper decision, response to a stimulus at right time and stay alert.\n\nThis workout is designed to train and strengthen specific cognitive skills that we need to apply for while driving a car and the games included in this workout are selected carefully for this purpose.\n\nThis workout is suitable for people who prepare for driving or just started driving. Also, experienced drivers can strengthen their abilities with this workout.",
+		"isEnabled": true,
+		"includedGames" : ["Atom_Alchemist", "Shift_And_Lift", "Grand_Tour"],
+		"workoutMainCategory" : "Driving Skills",
+		"recommendedRepeatInterval" : 7,
+		"workoutB2BID" : "9ef368d0-faae-42d3-bfea-4dab0040ef49"
+	},
+	
+	{
+		"workoutID" : 10,
+		"workoutDifficulty" : 1,
+		"name" : "Music and Math Motion",
+		"shortDescription" : "Warm up your brain with easy games",
+		"description": "If you are a beginner at brain games or do not want to deal with challenging brain teasers, then this workout is totally for you.\n\nThis workout is specially designed to exercise your mind in an easy way and make you feel like just playing games. You can train your brain with easy games and enjoy fun games at the same time.\n\nThis workout is suitable for people who are at a beginner level in brain games and people who want to just warm up their brains with easy games. You can do this workout anytime and anywhere. You just need a couple of minutes to exercise your mind.",
+		"isEnabled": true,
+		"includedGames" : ["Rhythm_Of_Forest", "Bid_Battle", "Paper_Cycle"],
+		"workoutMainCategory" : "Fun Games",
+		"recommendedRepeatInterval" : 1,
+		"workoutB2BID" : "9ef36942-8e4c-42a0-80bc-69f4f801090b"
+	},
+	
+	{
+		"workoutID" : 11,
+		"workoutDifficulty" : 1,
+		"name" : "MindFlex Exercises",
+		"shortDescription" : "Sharpen different types of memory and its functions",
+		"description": "Memory is an ability of acquiring, storing, retaining and retrieving information. It is one of the most essential cognitive function in our lives and plays an important role in our daily activities. We use our memory not only to remember information and feelings, but also to perform cognitive activities such as reading, writing, reasoning and mental calculation.\n\nA good memory helps us learning better, performing daily activities and fulfilling tasks in our school life and work place. Thus, it is important to train our brain and strengthen our memory skills. The more you train your brain, the better you will be able to encode, store and recall information.\n\nThere are different types of memory and all have various functions. This workout covers games that train all these different memory types by using ability to process and remember information. Games are adapted to your level and the difficulty level is being adjusted based on your skills and needs.\n\nBefore starting the games in this workout, we recommend beginning with the Simple Focus Exercise Meditation. This short mindfulness exercise helps you gather your attention, calm your mind, and prepare your brain for effective memory training. By focusing your thoughts and clearing distractions, you'll be better equipped to maximize the benefits of the games included in this workout.\n\nThis workout is suitable for all age groups and people who want to sharpen their memory skills.",
+		"isEnabled": true,
+		"includedGames" : ["Simple_Focus_Exercise", "Icy_Road", "Jungle_Race", "Reflecto_Gear"],
+		"workoutMainCategory" : "Memory",
+		"recommendedRepeatInterval" : 7,
+		"workoutB2BID" : "9ef369a6-43b8-4e99-82b0-d5219d718538"
+	},
+
+	{
+		"workoutID" : 12,
+		"workoutDifficulty" : 1,
+		"name" : "Virtual Reality Experience",
+		"shortDescription" : "Challenge your brain with intense workout",
+		"description": "Would you like to challenge your brain with hard games?\n\nThis intense workout is totally for people who are looking for new quality and fun brain teasers. You can push the limit of your brain and keep entertained at the same time.\n\nWe carefully prepared this selection of hard brain games that help you to keep your brain sharp. The games included in this workout is being getting harder as you level up.\n\nThis workout is suitable for people who are advanced at brain games and would like to challenge their cognitive abilities.",
+		"isEnabled": true,
+		"includedGames" : ["Nano_Inspector", "Customs_Scanner", "Garbage_Hunt"],
+		"workoutMainCategory" : "Challenging Games",
+		"recommendedRepeatInterval" : 1,
+		"workoutB2BID" : "9ef369f7-a4fd-4d61-ae46-e3678d9ddc85"
+	},
+
+	{
+		"workoutID" : 13,
+		"workoutDifficulty" : 1,
+		"name" : "Analytical Gymnastics",
+		"shortDescription" : "Play fun brain games when you take a coffee break",
+		"description": "It is good to take a break while you are studying and working. There are plenty of good ideas to make this little break more purposeful.\n\nThis 10-minute coffee break workout is designed to pass your time in a pleasant and more efficient way when you are taking a little break from a stressful day, studying or working. This purposeful workout helps you avoid the stress of everyday life thanks to fun games, improves your memory skills, enhances your concentration abilities, and impacts your performance at the tasks that require other cognitive skills.\n\nYou can do this workout anytime and anywhere. Just grab your coffee and play fun games that are good for your brain",
+		"isEnabled": true,
+		"includedGames" : ["Haunted_House", "Math", "The_Lost_Sudoku"],
+		"workoutMainCategory" : "A Little Break",
+		"recommendedRepeatInterval" : 1,
+		"workoutB2BID" : "9ef36be2-e4b9-4e0c-b81b-b969f2f90982"
+	}
+]

@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 258d920aac560374a8f4d16d5a96669b, type: 3}
+  m_Name: NameItOrRunIt_Level 19
+  m_EditorClassIdentifier: 
+  levelId: 19
+  timeToShowItem: 0.54
+  isEasy: 1
+  isMedium: 1
+  isHard: 1
+  isMixed: 1
+  mixRate: 70
+  questionType1: 0
+  questionType2: 0
+  questionType3: 1
+  questionType4: 0
+  answerTime: 1.9
+  levelUpCriteria: 25
+  levelDownCriteria: 2
+  maxInLevel: 2500
+  minScore: 1500
+  penaltyPoints: 25

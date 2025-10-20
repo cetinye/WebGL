@@ -1,0 +1,60 @@
+True,Doğru
+False,Yanlış
+BothNotMoving,Her iki organizma da <b><u><color=#910500>hareket etmiyor</color></u></b>.
+BothNotMoving_Trick,Her iki organizma da hareket ediyor.
+BothShaking,Her iki organizma da sallanıyor.
+BothShaking_Trick,Her iki organizma da <b><u><color=#910500>sallanmıyor</color></u></b>.
+BothExpanding,Her iki organizma da genişleyip daralıyor.
+BothExpanding_Trick,Her iki organizma da <b><u><color=#910500>genişleyip daralmıyor</color></u></b>.
+BothRotatingRight,Her iki organizma sağa dönüyor.
+BothRotatingRight_Trick,Her iki organizma <b><u><color=#910500>sağa dönmüyor</color></u></b>.
+BothRotatingLeft,Her iki organizma sola dönüyor.
+BothRotatingLeft_Trick,Her iki organizma <b><u><color=#910500>sola dönmüyor</color></u></b>.
+BothSameShape,Her iki organizma da aynı şekle sahip.
+BothNotSameShape,Her iki organizma da <b><u><color=#910500>aynı şekle sahip değil</color></u></b>.
+BothRed,Her iki organizma da <color=#FF0000>kırmızı</color> renkte.
+BothRed_Trick,Her iki organizma da <color=#FF0000>kırmızı</color> renkte <b><u><color=#910500>değil</color></u></b>.
+BothPink,Her iki organizma da <color=#FF00A3>pembe</color> renkte.
+BothPink_Trick,Her iki organizma da <color=#FF00A3>pembe</color> renkte <b><u><color=#910500>değil</color></u></b>.
+BothPurple,Her iki organizma da <color=#8300FF>mor</color> renkte.
+BothPurple_Trick,Her iki organizma da <color=#8300FF>mor</color> renkte <b><u><color=#910500>değil</color></u></b>.
+BothBlue,Her iki organizma da <color=#0000FF>mavi</color> renkte.
+BothBlue_Trick,Her iki organizma da <color=#0000FF>mavi</color> renkte <b><u><color=#910500>değil</color></u></b>.
+BothLightBlue,Her iki organizma da <color=#00D7FF>açık mavi</color> renkte.
+BothLightBlue_Trick,Her iki organizma da <color=#00D7FF>açık mavi</color> renkte <b><u><color=#910500>değil</color></u></b>.
+BothGreen,Her iki organizma da <color=#00FF00>yeşil</color> renkte.
+BothGreen_Trick,Her iki organizma da <color=#00FF00>yeşil</color> renkte <b><u><color=#910500>değil</color></u></b>.
+BothBrown,Her iki organizma da <color=#732E00>kahverengi</color> renkte.
+BothBrown_Trick,Her iki organizma da <color=#732E00>kahverengi</color> renkte <b><u><color=#910500>değil</color></u></b>.
+BothYellow,Her iki organizma da <color=#FFFF00>sarı</color> renkte.
+BothYellow_Trick,Her iki organizma da <color=#FFFF00>sarı</color> renkte <b><u><color=#910500>değil</color></u></b>.
+BothOrange,Her iki organizma da <color=#FF8300>turuncu</color> renkte.
+BothOrange_Trick,Her iki organizma da <color=#FF8300>turuncu</color> renkte <b><u><color=#910500>değil</color></u></b>.
+OneRed,Bir organizma <color=#FF0000>kırmızı</color> renkte.
+OneRed_Trick,Bir organizma <color=#FF0000>kırmızı</color> renkte <b><u><color=#910500>değil</color></u></b>.
+OnePink,Bir organizma <color=#FF00A3>pembe</color> renkte.
+OnePink_Trick,Bir organizma <color=#FF00A3>pembe</color> renkte <b><u><color=#910500>değil</color></u></b>.
+OnePurple,Bir organizma <color=#8300FF>mor</color> renkte.
+OnePurple_Trick,Bir organizma <color=#8300FF>mor</color> renkte <b><u><color=#910500>değil</color></u></b>.
+OneBlue,Bir organizma <color=#0000FF>mavi</color> renkte.
+OneBlue_Trick,Bir organizma <color=#0000FF>mavi</color> renkte <b><u><color=#910500>değil</color></u></b>.
+OneLightBlue,Bir organizma <color=#00D7FF>açık mavi</color> renkte.
+OneLightBlue_Trick,Bir organizma <color=#00D7FF>açık mavi</color> renkte <b><u><color=#910500>değil</color></u></b>.
+OneGreen,Bir organizma <color=#00FF00>yeşil</color> renkte.
+OneGreen_Trick,Bir organizma <color=#00FF00>yeşil</color> renkte <b><u><color=#910500>değil</color></u></b>.
+OneBrown,Bir organizma <color=#732E00>kahverengi</color> renkte.
+OneBrown_Trick,Bir organizma <color=#732E00>kahverengi</color> renkte <b><u><color=#910500>değil</color></u></b>.
+OneYellow,Bir organizma <color=#FFFF00>sarı</color> renkte.
+OneYellow_Trick,Bir organizma <color=#FFFF00>sarı</color> renkte <b><u><color=#910500>değil</color></u></b>.
+OneOrange,Bir organizma <color=#FF8300>turuncu</color> renkte.
+OneOrange_Trick,Bir organizma <color=#FF8300>turuncu</color> renkte <b><u><color=#910500>değil</color></u></b>.
+OneMoving,Bir organizma <b><u><color=#910500>hareket etmiyor</color></u></b>.
+OneMoving_Trick,Bir organizma hareket ediyor.
+OneShaking,Bir organizma sallanıyor.
+OneShaking_Trick,Bir organizma <b><u><color=#910500>sallanıyor</color></u></b>.
+OneExpanding,Bir organizma genişleyip daralıyor.
+OneExpanding_Trick,Bir organizma <b><u><color=#910500>genişleyip daralmıyor</color></u></b>.
+OneRotatingRight,Bir organizma sağa dönüyor.
+OneRotatingRight_Trick,Bir organizma <b><u><color=#910500>sağa dönmüyor</color></u></b>.
+OneRotatingLeft,Bir organizma sola dönüyor.
+OneRotatingLeft_Trick,Bir organizma <b><u><color=#910500>sola dönmüyor</color></u></b>.

@@ -1,0 +1,247 @@
+[
+	{
+		"gameId" : 3,
+		"name" : "Happy Holidays",
+		"description": "Valizini toplayabilirsen tatile gidebilirsin. Eşyalarını üst üste koymamaya dikkat et. Hadi uçak kalkmak üzere.",
+		"shortDescription" : "Valizini toplayabilirsen tatile gidebilirsin. Eşyalarını üst üste koymamaya dikkat et. Hadi uçak kalkmak üzere.",
+		"gameSubCategoryList" : [8,9],
+		"isPremium": true,
+		"isEnabled": false,
+		"gameMainCategory" : 2
+	},
+	{
+		"gameId" : 4,
+		"name" : "Marine Management",
+		"description": "Bu tersane sensiz bir hiç. Tek bir müşteriyi bile mutlu edemezler. Onlarca kişinin mutluluğu sana bağlı. Burayı ülkenin en iyi marinası yapabilirsin.",
+		"shortDescription" : "Bu tersane sensiz bir hiç. Tek bir müşteriyi bile mutlu edemezler. Onlarca kişinin mutluluğu sana bağlı. Burayı ülkenin en iyi marinası yapabilirsin.",
+		"gameSubCategoryList" : [10,11,12],
+		"isPremium": true,
+		"isEnabled": true,
+		"gameMainCategory" : 3
+	},
+	{
+		"gameId" : 5,
+		"name" : "Jungle Race",
+		"description": "Hikayeler her zaman doğruyu anlatmayabilir. O hikaye de biz tavşanı savunuyoruz. Başarabilirsin.",
+		"shortDescription" : "Hikayeler her zaman doğruyu anlatmayabilir. O hikaye de biz tavşanı savunuyoruz. Başarabilirsin.",
+		"gameSubCategoryList" : [0,1],
+		"isPremium": true,
+		"isEnabled": true,
+		"gameMainCategory" : 4
+	},
+	{
+		"gameId" : 6,
+		"name" : "To be or not to be",
+		"description": "Have you ever joined a contest where you get the information from the question? Don't miss this awesome workout for your brain.",
+		"shortDescription" : "Have you ever joined a contest where you get the information from the question? Don't miss this awesome workout for your brain.",
+		"gameSubCategoryList" : [8,9],
+		"isPremium": true,
+		"isEnabled": true,
+		"gameMainCategory" : 1
+	},
+	{
+		"gameId" : 7,
+		"name" : "Grand Tour",
+		"description": "Bakalım bütçeni doğru kullanabilecek misin? Karavanın seni bekliyor. Hadi yolculuğa çıkalım.",
+		"shortDescription" : "Bakalım bütçeni doğru kullanabilecek misin? Karavanın seni bekliyor. Hadi yolculuğa çıkalım.",
+		"gameSubCategoryList" : [1,18,19],
+		"isPremium": true,
+		"isEnabled": true,
+		"gameMainCategory" : 2
+	},
+	{
+		"gameId" : 8,
+		"name" : "No time No Wrong",
+		"description": "Ön belleğini harekete geçireceğin bu oyunda çok eğleneceksin. Hangisini gördüğünü hatırlaman bu oyun için çok önemli.",
+		"shortDescription" : "Ön belleğini harekete geçireceğin bu oyunda çok eğleneceksin. Hangisini gördüğünü hatırlaman bu oyun için çok önemli.",
+		"gameSubCategoryList" : [10,20,12],
+		"isPremium": true,
+		"isEnabled": true,
+		"gameMainCategory" : 0
+	},
+	{
+		"gameId" : 9,
+		"name" : "Math",
+		"description": "İşleme uygun sayıları süren bitmeden bulmalısın. Hızlı düşünmeni sağlayacak bu pratik ile daha hızlı hesap yapmaya başlayabilirsin.",
+		"shortDescription" : "İşleme uygun sayıları süren bitmeden bulmalısın. Hızlı düşünmeni sağlayacak bu pratik ile daha hızlı hesap yapmaya başlayabilirsin.",
+		"gameSubCategoryList" : [8,9,15,21],
+		"isPremium": true,
+		"isEnabled": true,
+		"gameMainCategory" : 3
+	},
+	{
+		"gameId" : 10,
+		"name" : "Imitation Game",
+		"description": "Savaşın talihi sana bağlı, gemilerin dümenlerini kendine alıp onları dost birliklerin tersanelerine yönlendirmelisin. Zihnin hiç olmadığı kadar hızlı çalıştırmalısın. Başarabilirsin.",
+		"shortDescription" : "Savaşın talihi sana bağlı, gemilerin dümenlerini kendine alıp onları dost birliklerin tersanelerine yönlendirmelisin. Zihnin hiç olmadığı kadar hızlı çalıştırmalısın. Başarabilirsin.",
+		"gameSubCategoryList" : [10,16,12],
+		"isPremium": true,
+		"isEnabled": true,
+		"gameMainCategory" : 2
+	},
+	{	"gameId" : 11,
+		"name" : "Tap Gun",
+		"description": "Motor uçağın kalbidir, fakat pilot onun ruhudur. Doğru yönlendirmeleri yapmalı uçağın ihtiyacı olan füzelere çarpmalısın. Bunu yaparken diğerlerinden kaçmayı unutma. Zihnin için farklı bir deneyim olacak.",
+		"shortDescription" : "Motor uçağın kalbidir, fakat pilot onun ruhudur. Doğru yönlendirmeleri yapmalı uçağın ihtiyacı olan füzelere çarpmalısın. Bunu yaparken diğerlerinden kaçmayı unutma. Zihnin için farklı bir deneyim olacak.",
+		"gameSubCategoryList" : [19,18,14],
+		"isPremium": true,
+		"isEnabled": true,
+		"gameMainCategory" : 3
+	},
+	{	"gameId" : 12,
+		"name" : "Mission Pluto",
+		"description": "Güneş sisteminin en sonuna ulaşmak üzeresin. Plüton’u görebilir ve dünyaya en doğru bilgileri aktarabilirsin. Yoluna çıkan vorteksi geçip görevini tamamlamalısın. Vorteksin zihnini yanıltmasına izin verme.",
+		"shortDescription" : "Güneş sisteminin en sonuna ulaşmak üzeresin. Plüton’u görebilir ve dünyaya en doğru bilgileri aktarabilirsin. Yoluna çıkan vorteksi geçip görevini tamamlamalısın. Vorteksin zihnini yanıltmasına izin verme.",
+		"gameSubCategoryList" : [12,15,18],
+		"isPremium": true,
+		"isEnabled": true,
+		"gameMainCategory" : 1
+	},
+	{	"gameId" : 13,
+		"name" : "Public Transport",
+		"description": "Dünyaya çarpan bir meteor sonucu tüm duraklar kaybolmuştur. İnsanları doğru duraklarda indirme görevi artık şoförlerindir. İşler hafızana ihtiyacımız var. Görev seni bekliyor.",
+		"shortDescription" : "Dünyaya çarpan bir meteor sonucu tüm duraklar kaybolmuştur. İnsanları doğru duraklarda indirme görevi artık şoförlerindir. İşler hafızana ihtiyacımız var. Görev seni bekliyor.",
+		"gameSubCategoryList" : [8,16,13],
+		"isPremium": true,
+		"isEnabled": true,
+		"gameMainCategory" : 0
+	},
+	{	"gameId" : 14,
+		"name" : "North Ekspres",
+		"description": "Bu tren durağına vaktinde varmalı. Bunun için kazanlarına bolca kömür atmalısın. Kömür atarken hem refleksini hem de matematiğini kullanmalısın. İnsanların bu dağ başında kalmalarına izin vermeyeceğini biliyorum.",
+		"shortDescription" : "Bu tren durağına vaktinde varmalı. Bunun için kazanlarına bolca kömür atmalısın. Kömür atarken hem refleksini hem de matematiğini kullanmalısın. İnsanların bu dağ başında kalmalarına izin vermeyeceğini biliyorum.",
+		"gameSubCategoryList" : [18,1,12,15],
+		"isPremium": true,
+		"isEnabled": true,
+		"gameMainCategory" : 1
+	},
+	{	"gameId" : 15,
+		"name" : "ATV vs Asphalt",
+		"description": "Bir arazi aracıyla asfaltta neler yapabildiğini göster. Uyarılara dikkat et. Gideceğin yönü iyi planla. Yarışı kazan.",
+		"shortDescription" : "Engellere çarpma",
+		"gameSubCategoryList" : [18,1,12,15],
+		"isPremium": true,
+		"isEnabled": true,
+		"gameMainCategory" : 4
+	},
+	{
+		"gameId" : 16,
+		"name" : "Penguins",
+		"description": "Lorem Ipsum",
+		"shortDescription" : "Lorem Ipsum",
+		"gameSubCategoryList" : [18,1,12,15],
+		"isPremium": true,
+		"isEnabled": false,
+		"gameMainCategory" : 4
+	},
+	{
+		"gameId" : 17,
+		"name" : "Cashier",
+		"description": "Lorem Ipsum",
+		"shortDescription" : "Lorem Ipsum",
+		"gameSubCategoryList" : [18,1,12,15],
+		"isPremium": true,
+		"isEnabled": true,
+		"gameMainCategory" : 0
+	},
+	{
+		"gameId" : 18,
+		"name" : "Airport Craft",
+		"description": "Lorem Ipsum",
+		"shortDescription" : "Lorem Ipsum",
+		"gameSubCategoryList" : [18,1,12,15],
+		"isPremium": true,
+		"isEnabled": false,
+		"gameMainCategory" : 4
+	},
+	{
+		"gameId" : 19,
+		"name" : "Pacman",
+		"description": "Lorem Ipsum",
+		"shortDescription" : "Lorem Ipsum",
+		"gameSubCategoryList" : [18,1,12,15],
+		"isPremium": true,
+		"isEnabled": false,
+		"gameMainCategory" : 4
+	},
+	{
+		"gameId" : 20,
+		"name" : "Space Burgers",
+		"description": "Space Burgers Aciklama",
+		"shortDescription" : "Space Burgers Description",
+		"gameSubCategoryList" : [18,1,12,15],
+		"isPremium": true,
+		"isEnabled": true,
+		"gameMainCategory" : 3
+	},
+	{
+		"gameId" : 21,
+		"name" : "Mini Golf",
+		"description": "Mini Golf Aciklama",
+		"shortDescription" : "Mini Golf Description",
+		"gameSubCategoryList" : [11,12,8,17],
+		"isPremium": true,
+		"isEnabled": true,
+		"gameMainCategory" : 0
+	},
+	{
+		"gameId" : 22,
+		"name" : "Bid Battle",
+		"description": "Bid Battle Aciklama",
+		"shortDescription" : "Bid Battle Description",
+		"gameSubCategoryList" : [18,1,12,15],
+		"isPremium": true,
+		"isEnabled": true,
+		"gameMainCategory" : 1
+	},
+	{
+		"gameId" : 23,
+		"name" : "Stock It Up",
+		"description": "Stock It Up Aciklama",
+		"shortDescription" : "Stock It Up Description",
+		"gameSubCategoryList" : [20,13,11],
+		"isPremium": true,
+		"isEnabled": true,
+		"gameMainCategory" : 1
+	},
+	{
+		"gameId" : 24,
+		"name" : "Electro Birds",
+		"description": "Electro Birds Aciklama",
+		"shortDescription" : "Electro Birds Description",
+		"gameSubCategoryList" : [18,1,12,15],
+		"isPremium": true,
+		"isEnabled": true,
+		"gameMainCategory" : 4
+	},
+	{
+		"gameId" : 25,
+		"name" : "Penguin Game",
+		"description": "Penguin Game Aciklama",
+		"shortDescription" : "Penguin Game Description",
+		"gameSubCategoryList" : [10,11,12,17],
+		"isPremium": true,
+		"isEnabled": true,
+		"gameMainCategory" : 2
+	},
+	{
+		"gameId" : 26,
+		"name" : "Highway Control",
+		"description": "Highway Control Aciklama",
+		"shortDescription" : "Highway Control Description",
+		"gameSubCategoryList" : [16, 8, 20, 11],
+		"isPremium": true,
+		"isEnabled": true,
+		"gameMainCategory" : 1
+	},
+	{
+		"gameId" : 27,
+		"name" : "Table Tennis",
+		"description": "Table Tennis Aciklama",
+		"shortDescription" : "Table Tennis Description",
+		"gameSubCategoryList" : [21, 20, 7, 17],
+		"isPremium": true,
+		"isEnabled": true,
+		"gameMainCategory" : 4
+	}
+]

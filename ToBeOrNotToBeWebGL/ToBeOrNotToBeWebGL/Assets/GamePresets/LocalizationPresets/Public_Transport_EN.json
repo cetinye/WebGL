@@ -1,0 +1,23 @@
+[
+    {
+        "key":"numberOfPassengersToGetOff",
+        "value":"Number of passengers to get off at the stop: "
+    },
+    {
+        "key":"numberOfTotalPassengers",
+        "value":"Total number of passengers on the bus: "
+    },
+    {
+        "key":"level",
+        "value":"Level "
+    },
+    {
+        "key":"completed",
+        "value":"Completed"
+    },
+    {
+        "key":"areYouReady",
+        "value":"Let's Go!"
+    }  
+
+]

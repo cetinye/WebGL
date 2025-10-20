@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BlueGlass
+  m_Controller: {fileID: 9100000, guid: c7831b154b95bbe4b9eac53b2a92ddfb, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 93f26e007b334654fa2f64964a4d14d1, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: e3e6665c487b98b43afcc0b05520e148, type: 2}

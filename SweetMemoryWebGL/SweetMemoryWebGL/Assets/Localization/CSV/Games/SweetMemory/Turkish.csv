@@ -1,0 +1,51 @@
+CakeTypePositive,{cakeName} {text} idi.
+CakeTypeNegative,{cakeName} {text} değildi.
+FlavorPositive,{cakeName} {text} idi.
+FlavorNegative,{cakeName} {text} değildi.
+ToppingPositive,{cakeName} {text} vardı.
+ToppingNegative,{cakeName} {text} yoktu.
+PricePositive,{cakeName} fiyatı {price} idi.
+PriceNegative,{cakeName} fiyatı {price} değildi.
+CandleCountPositive,{cakeName} üzerinde {count} mum vardı.
+CandleCountNegative,{cakeName} üzerinde {count} mum yoktu.
+CandleColorPositive,{cakeName} {color} mum vardı.
+CandleColorNegative,{cakeName} {color} mum yoktu.
+CandleNumberPositive,{cakeName} üzerinde {number} yazan mum vardı.
+CandleNumberNegative,{cakeName} üzerinde {number} yazan mum yoktu.
+And,ve
+$,$
+PriceText,fiyatı #
+CakeNames0,tatlı
+CakeNames1,tatlı
+CakeNames2,pasta
+CakeNames3,pasta
+CakeNames4,pasta
+CakeNames5,pasta
+CakeNames6,pasta
+CakeTypeTexts0,çörek
+CakeTypeTexts1,kapkek
+CakeTypeTexts2,tek katlı yuvarlak pasta
+CakeTypeTexts3,kalp şeklinde
+CakeTypeTexts4,dilim pasta
+CakeTypeTexts5,iki katlı yuvarlak pasta
+CakeTypeTexts6,üç katlı yuvarlak pasta
+FlavorTexts0,çikolatalı (kahverengi)
+FlavorTexts1,beyaz çikolatalı (beyaz)
+FlavorTexts2,çilekli (pembe)
+FlavorTexts3,muzlu (sarı)
+FlavorTexts4,kirazlı (kırmızı)
+FlavorTexts5,böğürtlenli (mor)
+ToppingTexts0,böğürtlen
+ToppingTexts1,kiraz
+ToppingTexts2,çilek
+ToppingTexts3,kivi
+ToppingTexts4,limon
+CandleColorTexts0,kırmızı
+CandleColorTexts1,sarı
+CandleColorTexts2,mavi
+CandleCountText,üstünde # mum var
+CandleNumberText,üstünde # yazan mum var
+True,Doğru
+False,Yanlış
+Question,Soru
+Level,Seviye

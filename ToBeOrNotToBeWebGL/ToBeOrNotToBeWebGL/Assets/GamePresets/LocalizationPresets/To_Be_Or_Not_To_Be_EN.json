@@ -1,0 +1,48 @@
+[
+  {
+    "key": "red",
+    "value": "red"
+  },
+
+  { "key": "blue", "value": "blue" },
+  { "key": "green", "value": "green" },
+  {
+    "key": "orange",
+    "value": "orange"
+  },
+  { "key": "black", "value": "black" },
+  { "key": "thisIs", "value": "This is " },
+  { "key": "not", "value": "not " },
+  { "key": "a", "value": "" },
+
+  { "key": "ambulance", "value": "ambulance" },
+  { "key": "shoe", "value": "shoe" },
+  { "key": "fish", "value": "fish" },
+  { "key": "toothbrush", "value": "toothbrush" },
+  { "key": "apple", "value": "apple" },
+  { "key": "mouse", "value": "mouse" },
+  { "key": "elephant", "value": "elephant" },
+  { "key": "cup", "value": "cup" },
+  { "key": "camera", "value": "camera" },
+  { "key": "brush", "value": "brush" },
+  { "key": "guitar", "value": "guitar" },
+  { "key": "eyeglass", "value": "eyeglass" },
+  { "key": "giftBox", "value": "gift box" },
+  { "key": "watch", "value": "watch" },
+  { "key": "necktie", "value": "necktie" },
+  { "key": "joystick", "value": "joystick" },
+  { "key": "scissors", "value": "scissors" },
+  { "key": "bus", "value": "bus" },
+  { "key": "palette", "value": "palette" },
+  { "key": "gramophone", "value": "gramophone" },
+  { "key": "radio", "value": "radio" },
+  { "key": "tshirt", "value": "t-shirt" },
+  { "key": "comb", "value": "comb" },
+  { "key": "chicken", "value": "chicken" },
+  { "key": "telephone", "value": "telephone" },
+  { "key": "ball", "value": "ball" },
+  { "key": "bag", "value": "bag" },
+  { "key": "sock", "value": "sock" },
+  { "key": "hat", "value": "hat" },
+  { "key": "umbrella", "value": "umbrella" }
+]

@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b49e28f3b950af2419e4a5d2c603929b, type: 3}
+  m_Name: QuestionData
+  m_EditorClassIdentifier: 
+  PriceText: a price tag of #
+  CakeNames:
+  - dessert
+  - dessert
+  - cake
+  - cake
+  - cake
+  - cake
+  - cake
+  CakeTypeTexts:
+  - a donut
+  - a cupcake
+  - a single-layered round cake
+  - a heart shape
+  - a slice of cake
+  - a two-tiered round cake
+  - a three-tiered round cake
+  FlavorTexts:
+  - chocolate-flavored (brown)
+  - white chocolate-flavored (white)
+  - strawberry-flavored (pink)
+  - banana-flavored (yellow)
+  - cherry-flavored (red)
+  - blueberry-flavored (purple)
+  ToppingTexts:
+  - blueberry
+  - cherry
+  - strawberry
+  - kiwi
+  - lemon
+  CandleColorTexts:
+  - red
+  - yellow
+  - blue
+  CandleCountText: '# candle(s) on top'
+  CandleNumberText: 'the number # as candles on top '
+  TrueChance: 0.4
+  NegationChance: 0.4
+  DoubleChance: 0.33

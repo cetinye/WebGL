@@ -1,0 +1,60 @@
+True,True
+False,False
+BothNotMoving,Both organisms are <b><u><color=#910500>not</color></u></b> moving.
+BothNotMoving_Trick,Both organisms are moving.
+BothShaking,Both organisms are shaking.
+BothShaking_Trick,Both organisms are <b><u><color=#910500>not</color></u></b> shaking.
+BothExpanding,Both organisms are expanding and contracting.
+BothExpanding_Trick,Both organisms are <b><u><color=#910500>not</color></u></b> expanding and contracting.
+BothRotatingRight,Both organisms are rotating right.
+BothRotatingRight_Trick,Both organisms are <b><u><color=#910500>not</color></u></b> rotating right.
+BothRotatingLeft,Both organisms are rotating left.
+BothRotatingLeft_Trick,Both organisms are <b><u><color=#910500>not</color></u></b> rotating left.
+BothSameShape,Both organisms have the same shape.
+BothNotSameShape,Both organisms do <b><u><color=#910500>not</color></u></b> have the same shape.
+BothRed,Both organisms are in <color=#FF0000>red</color> color.
+BothRed_Trick,Both organisms are <b><u><color=#910500>not</color></u></b> in <color=#FF0000>red</color> color.
+BothPink,Both organisms are in <color=#FF00A3>pink</color> color.
+BothPink_Trick,Both organisms are <b><u><color=#910500>not</color></u></b> in <color=#FF00A3>pink</color> color.
+BothPurple,Both organisms are in <color=#8300FF>purple</color> color.
+BothPurple_Trick,Both organisms are <b><u><color=#910500>not</color></u></b> in <color=#8300FF>purple</color> color.
+BothBlue,Both organisms are in <color=#0000FF>blue</color> color.
+BothBlue_Trick,Both organisms are <b><u><color=#910500>not</color></u></b> in <color=#0000FF>blue</color> color.
+BothLightBlue,Both organisms are in <color=#00D7FF>light blue</color> color.
+BothLightBlue_Trick,Both organisms are <b><u><color=#910500>not</color></u></b> in <color=#00D7FF>light blue</color> color.
+BothGreen,Both organisms are in <color=#00FF00>green</color> color.
+BothGreen_Trick,Both organisms are <b><u><color=#910500>not</color></u></b> in <color=#00FF00>green</color> color.
+BothBrown,Both organisms are in <color=#732E00>brown</color> color.
+BothBrown_Trick,Both organisms are <b><u><color=#910500>not</color></u></b> in <color=#732E00>brown</color> color.
+BothYellow,Both organisms are in <color=#FFFF00>yellow</color> color.
+BothYellow_Trick,Both organisms are <b><u><color=#910500>not</color></u></b> in <color=#FFFF00>yellow</color> color.
+BothOrange,Both organisms are in <color=#FF8300>orange</color> color.
+BothOrange_Trick,Both organisms are <b><u><color=#910500>not</color></u></b> in <color=#FF8300>orange</color> color.
+OneRed,One of the organisms is in <color=#FF0000>red</color> color.
+OneRed_Trick,One of the organisms is <b><u><color=#910500>not</color></u></b> in <color=#FF0000>red</color> color.
+OnePink,One of the organisms is in <color=#FF00A3>pink</color> color.
+OnePink_Trick,One of the organisms is <b><u><color=#910500>not</color></u></b> in <color=#FF00A3>pink</color> color.
+OnePurple,One of the organisms is in <color=#8300FF>purple</color> color.
+OnePurple_Trick,One of the organisms is <b><u><color=#910500>not</color></u></b> in <color=#8300FF>purple</color> color.
+OneBlue,One of the organisms is in <color=#0000FF>blue</color> color.
+OneBlue_Trick,One of the organisms is <b><u><color=#910500>not</color></u></b> in <color=#0000FF>blue</color> color.
+OneLightBlue,One of the organisms is in <color=#00D7FF>light blue</color> color.
+OneLightBlue_Trick,One of the organisms is <b><u><color=#910500>not</color></u></b> in <color=#00D7FF>light blue</color> color.
+OneGreen,One of the organisms is in <color=#00FF00>green</color> color.
+OneGreen_Trick,One of the organisms is <b><u><color=#910500>not</color></u></b> in <color=#00FF00>green</color> color.
+OneBrown,One of the organisms is in <color=#732E00>brown</color> color.
+OneBrown_Trick,One of the organisms is <b><u><color=#910500>not</color></u></b> in <color=#732E00>brown</color> color.
+OneYellow,One of the organisms is in <color=#FFFF00>yellow</color> color.
+OneYellow_Trick,One of the organisms is <b><u><color=#910500>not</color></u></b> in <color=#FFFF00>yellow</color> color.
+OneOrange,One of the organisms is in <color=#FF8300>orange</color> color.
+OneOrange_Trick,One of the organisms is <b><u><color=#910500>not</color></u></b> in <color=#FF8300>orange</color> color.
+OneMoving,One of the organisms is <b><u><color=#910500>not</color></u></b> moving.
+OneMoving_Trick,One of the organisms is moving.
+OneShaking,One of the organisms is shaking.
+OneShaking_Trick,One of the organisms is <b><u><color=#910500>not</color></u></b> shaking.
+OneExpanding,One of the organisms is expanding and contracting.
+OneExpanding_Trick,One of the organisms is <b><u><color=#910500>not</color></u></b> expanding and contracting.
+OneRotatingRight,One of the organisms is rotating right.
+OneRotatingRight_Trick,One of the organisms is <b><u><color=#910500>not</color></u></b> rotating right.
+OneRotatingLeft,One of the organisms is rotating left.
+OneRotatingLeft_Trick,One of the organisms is <b><u><color=#910500>not</color></u></b> rotating left.

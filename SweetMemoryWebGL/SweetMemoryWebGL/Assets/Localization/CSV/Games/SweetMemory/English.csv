@@ -1,0 +1,51 @@
+CakeTypePositive,The {cakeName} was {text}.
+CakeTypeNegative,The {cakeName} was not {text}.
+FlavorPositive,The {cakeName} was {text}.
+FlavorNegative,The {cakeName} was not {text}.
+ToppingPositive,The {cakeName} had {text} on top.
+ToppingNegative,The {cakeName} did not have {text} on top.
+PricePositive,The {cakeName} had a price of {price}.
+PriceNegative,The {cakeName} did not have a price of {price}.
+CandleCountPositive,The {cakeName} had {count} candles.
+CandleCountNegative,The {cakeName} did not have {count} candles.
+CandleColorPositive,The {cakeName} had {color} candles.
+CandleColorNegative,The {cakeName} did not have {color} candles.
+CandleNumberPositive,The {cakeName} had a candle with the number {number}.
+CandleNumberNegative,The {cakeName} did not have a candle with the number {number}.
+And,and
+$,$
+PriceText,a price tag of #
+CakeNames0,dessert
+CakeNames1,dessert
+CakeNames2,cake
+CakeNames3,cake
+CakeNames4,cake
+CakeNames5,cake
+CakeNames6,cake
+CakeTypeTexts0,a donut
+CakeTypeTexts1,a cupcake
+CakeTypeTexts2,a single-layered round cake
+CakeTypeTexts3,a heart shape
+CakeTypeTexts4,a slice of cake
+CakeTypeTexts5,a two-tiered round cake
+CakeTypeTexts6,a three-tiered round cake
+FlavorTexts0,chocolate-flavored (brown)
+FlavorTexts1,white chocolate-flavored (white)
+FlavorTexts2,strawberry-flavored (pink)
+FlavorTexts3,banana-flavored (yellow)
+FlavorTexts4,cherry-flavored (red)
+FlavorTexts5,blueberry-flavored (purple)
+ToppingTexts0,blueberry
+ToppingTexts1,cherry
+ToppingTexts2,strawberry
+ToppingTexts3,kiwi
+ToppingTexts4,lemon
+CandleColorTexts0,red
+CandleColorTexts1,yellow
+CandleColorTexts2,blue
+CandleCountText,# candle(s) on top
+CandleNumberText,the number # as candles on top
+True,True
+False,False
+Question,Question
+Level,Level

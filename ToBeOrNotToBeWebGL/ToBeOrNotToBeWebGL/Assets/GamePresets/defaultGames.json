@@ -1,0 +1,252 @@
+[
+	{
+		"gameId" : "W40",
+		"name" : "Happy Holidays",
+		"description": "Pack your suitcase properly to go on vacation. Be careful not to put your stuff top of each other. Come on, the plane is about to take off!",
+		"shortDescription" : "Can you pack your suitcase properly?",
+		"gameSubCategoryList" : [16,2],
+		"isPremium": true,
+		"isEnabled": false,
+		"gameMainCategory" : 2
+	},
+	{
+		"gameId" : "W1",
+		"name" : "Marine Management",
+		"description": "Manage the marine and allow the ships to get the required maintenance and repair. Make sure that all ships get the correct maintenance in a given time and proceed on their way. Let’s see how your brain handle complicated tasks.",
+		"shortDescription" : "Let the ships proceed on their way.",
+		"gameSubCategoryList" : [8,17,11],
+		"isPremium": true,
+		"isEnabled": true,
+		"gameMainCategory" : 1
+	},
+	{
+		"gameId" : "W27",
+		"name" : "Jungle Race",
+		"description": "Are all stories the same? In our story, we are on the rabbit's side and racing against the turtle in a maze. Be careful this maze is not just an ordinary maze. Show your perception skills and help the rabbit reach the carrot before the turtle reaches it.",
+		"shortDescription" : "A race in a rotating maze. ",
+		"gameSubCategoryList" : [19,14,17],
+		"isPremium": true,
+		"isEnabled": true,
+		"gameMainCategory" : 3
+	},
+	{
+		"gameId" : "W42",
+		"name" : "To Be or Not To Be",
+		"description": "Let us introduce our smart vending machine! This vending machine has some puzzling questions for you and you have limited time to answer them. Keep in mind that the answer you are looking for is in the question! Don’t miss this awesome exercise for your brain!",
+		"shortDescription" : "Smart vending machine is waiting for you.",
+		"gameSubCategoryList" : [3,4,5,9],
+		"isPremium": true,
+		"isEnabled": true,
+		"gameMainCategory" : 0
+	},
+	{
+		"gameId" : "W45",
+		"name" : "Grand Tour",
+		"description": "The beautiful countries of the world are waiting for you! Hop on your camper and start your journey.  Show your problem-solving skills to plan your route and use your budget wisely.",
+		"shortDescription" : "Hop on your camper and plan your route.",
+		"gameSubCategoryList" : [11,12,18],
+		"isPremium": true,
+		"isEnabled": true,
+		"gameMainCategory" : 2
+	},
+	{
+		"gameId" : "W3",
+		"name" : "No Time No Wrong",
+		"description": "Do you trust your memory?  Then, you are asked to remember correctly which objects you have seen before. You will enjoy this challenging game while activating your cache memory.",
+		"shortDescription" : "An awesome memory challenge!",
+		"gameSubCategoryList" : [4,3,0,1],
+		"isPremium": true,
+		"isEnabled": true,
+		"gameMainCategory" : 0
+	},
+	{
+		"gameId" : "W14",
+		"name" : "Math",
+		"description": "Improve your mental arithmetic in an easy way. Find the correct numbers that fits to the shown operator and the result before the time runs out. The more you practice, the faster you get.",
+		"shortDescription" : "Sharpen your mental math skills!",
+		"gameSubCategoryList" : [7,19,15,13],
+		"isPremium": true,
+		"isEnabled": true,
+		"gameMainCategory" : 1
+	},
+	{
+		"gameId" : "W32",
+		"name" : "Imitation Game",
+		"description": "Take the control of the ships by communicating them through Morse code and steer them toward the navy yard. Make sure that all ships have arrived in a port safely.",
+		"shortDescription" : "Be ready to hold the helm.",
+		"gameSubCategoryList" : [9,12,15,18],
+		"isPremium": true,
+		"isEnabled": true,
+		"gameMainCategory" : 3
+	},
+	{	
+		"gameId" : "W37",
+		"name" : "Tap Gun",
+		"description": "Hey captain! You are in control of the fighter aircraft. Navigate it correctly and fly away from the hostile missiles. Demonstrate your hand-eye coordination skills as a talented pilot and enjoy this experience.",
+		"shortDescription" : "Get prepared to be a fighter pilot!",
+		"gameSubCategoryList" : [21,20,7,18],
+		"isPremium": true,
+		"isEnabled": true,
+		"gameMainCategory" : 4
+	},
+	{	
+		"gameId" : "W33",
+		"name" : "Mission Pluto",
+		"description": "This time, you will be an astronaut and your mission is to convey a message to the world. Be careful, the vortex on your way causes the meteors to vanish. Avoid meteors and keep the spaceship safe to complete your mission.",
+		"shortDescription" : "A remarkable space mission.",
+		"gameSubCategoryList" : [14,15,13,21],
+		"isPremium": true,
+		"isEnabled": true,
+		"gameMainCategory" : 3
+	},
+	{	
+		"gameId" : "W44",
+		"name" : "Public Transport",
+		"description": "As a bus driver, you should remember where the passengers want to get off. Track their movements carefully throughout the shuttle and answer the questions. You will need your mental calculation and memory skills.",
+		"shortDescription" : "World’s best bus driver!",
+		"gameSubCategoryList" : [0,6,5],
+		"isPremium": true,
+		"isEnabled": true,
+		"gameMainCategory" : 0
+	},
+	{	
+		"gameId" : "W21",
+		"name" : "North Express",
+		"description": "Welcome to North Express! This is a coal fired train and you need to throw the coals to the boilers to let the train works. The train must arrive at the station on time and thus, we need both your math skills and reflexes to speed up the train. ",
+		"shortDescription" : "Let the train arrive at the station on time.",
+		"gameSubCategoryList" : [7,12,2],
+		"isPremium": true,
+		"isEnabled": true,
+		"gameMainCategory" : 1
+	},
+	{
+		"gameId" : "W8",
+		"name" : "ATV vs Asphalt",
+		"description": "Do you want to embark on an adventure in the middle of the desert? Then, take an ATV ride and enjoy the thrill. Pay attention to the warnings and obstacles, and show your coordination skills.",
+		"shortDescription" : "An ATV adventure in the middle of the desert.",
+		"gameSubCategoryList" : [21,20,15],
+		"isPremium": true,
+		"isEnabled": true,
+		"gameMainCategory" : 4
+	},
+	{
+		"gameId" : "W76",
+		"name" : "Penguins",
+		"description": "Penguins are starving! Help them to collect enough fish before the polar bear arrives! Track the penguins carefully and don’t let them collide with each other. Otherwise, they will drop their fish. ",
+		"shortDescription" : "Help the starving penguins.",
+		"gameSubCategoryList" : [7,9,10,15],
+		"isPremium": true,
+		"isEnabled": false,
+		"gameMainCategory" : 1
+	},
+	{
+		"gameId" : "W75",
+		"name" : "Cashier",
+		"description": "This time you are a cashier in the grocery market, but what is that? The cash register is broken! You need to keep in mind the numbers on the barcodes and then enter these numbers manually. Hurry up, customers are waiting in the line.",
+		"shortDescription" : "A cashier with a broken cash register.",
+		"gameSubCategoryList" : [5,6,1,20],
+		"isPremium": true,
+		"isEnabled": true,
+		"gameMainCategory" : 0
+	},
+	{
+		"gameId" : "W77",
+		"name" : "Airport Craft",
+		"description": "Lorem Ipsum",
+		"shortDescription" : "Lorem Ipsum",
+		"gameSubCategoryList" : [18,1,12,15],
+		"isPremium": true,
+		"isEnabled": false,
+		"gameMainCategory" : 4
+	},
+	{
+		"gameId" : "W78",
+		"name" : "Pacman",
+		"description": "Lorem Ipsum",
+		"shortDescription" : "Lorem Ipsum",
+		"gameSubCategoryList" : [18,1,12,15],
+		"isPremium": true,
+		"isEnabled": false,
+		"gameMainCategory" : 4
+	},
+	{
+		"gameId" : "W31",
+		"name" : "Space Burgers",
+		"description": "This is the most interesting restaurant in the universe. Hungry aliens are in the line to get their burgers. Complete their orders correctly in a given time. Let’s see how you can handle orders quickly as the aliens get impatient!",
+		"shortDescription" : "Welcome to the most unique restaurant in the universe!",
+		"gameSubCategoryList" : [11,12,8,17],
+		"isPremium": true,
+		"isEnabled": true,
+		"gameMainCategory" : 2
+	},
+	{
+		"gameId" : "W50",
+		"name" : "Mini Golf",
+		"description": "This is not a typical golf game! Pay attention to the interesting and tricky obstacles and get ready to challenge your skills. Putt your way to better memory with our specially designed Mini Golf game.",
+		"shortDescription" : "Putt your way to better memory with Mini Golf!",
+		"gameSubCategoryList" : [11,12,8,17],
+		"isPremium": true,
+		"isEnabled": true,
+		"gameMainCategory" : 0
+	},
+	{
+		"gameId" : "W54",
+		"name" : "Bid Battle",
+		"description": "Take the auctioneer role this time and sell the most valuable pieces of art! Can you spot the highest bids and make the best deals? Get ready to put your mental math skills and make quick decisions before time runs out.",
+		"shortDescription" : "Welcome to the thrilling Bid Battle!",
+		"gameSubCategoryList" : [11,12,8,17],
+		"isPremium": true,
+		"isEnabled": true,
+		"gameMainCategory" : 1
+	},
+	{
+		"gameId" : "W56",
+		"name" : "Stock It Up",
+		"description": "Step into the shoes of a supermarket stocker and put your attention skills to sort all the groceries onto the right shelves. You'll need to keep up the pace to make sure all shelves stay full and every customer can find what they are looking for.",
+		"shortDescription" : "Let's get sorting and make the shelves shine!",
+		"gameSubCategoryList" : [20,13,11],
+		"isPremium": true,
+		"isEnabled": true,
+		"gameMainCategory" : 1
+	},
+	{
+		"gameId" : "W57",
+		"name" : "Electro Birds",
+		"description": "Get ready to zap into action to rescue little birds! In this adventure, you will need lightning-fast reflexes and a keen eye to save the birds from getting zapped by the electric current. Can you rescue the birds in time?",
+		"shortDescription" : "Birds on a wire, watch out for the electric!",
+		"gameSubCategoryList" : [18,1,12,15],
+		"isPremium": true,
+		"isEnabled": true,
+		"gameMainCategory" : 4
+	},
+	{
+		"gameId" : "W58",
+		"name" : "Icy Road",
+		"description": "Help our feathered friends cross the treacherous river by hopping onto drifting ice floes. Swipe your way to success, but beware of tricky currents and floating ice floes along the way. Let's slide into action and take our penguins back to their home.",
+		"shortDescription" : "Get ready for a slippery adventure with our beloved penguins!",
+		"gameSubCategoryList" : [10,11,12,17],
+		"isPremium": true,
+		"isEnabled": true,
+		"gameMainCategory" : 2
+	},
+	{
+		"gameId" : "W59",
+		"name" : "Highway Control",
+		"description": "Get ready to step into the shoes of a traffic policeman in this game! Watch out for rule-breakers and catch them in the act to issue fines. Sharpen your reflexes and see if you can become the ultimate traffic enforcer in this fast-paced adventure.",
+		"shortDescription" : "Catch the violators and become the ultimate traffic enforcer!",
+		"gameSubCategoryList" : [16, 8, 20, 11],
+		"isPremium": true,
+		"isEnabled": true,
+		"gameMainCategory" : 1
+	},
+	{
+		"gameId" : "W55",
+		"name" : "Table Tennis",
+		"description": "Get ready to smash, spin, and serve your way to victory in our thrilling table tennis game. Put your skills to the ultimate test and claim the title of the ping pong champion! With lightning-fast rallies and intense matches, it's time to unleash your paddle prowess and dominate the table. Game on!",
+		"shortDescription" : "Take control of the paddle and show off your skills!",
+		"gameSubCategoryList" : [21, 20, 7, 17],
+		"isPremium": true,
+		"isEnabled": true,
+		"gameMainCategory" : 4
+	}
+]

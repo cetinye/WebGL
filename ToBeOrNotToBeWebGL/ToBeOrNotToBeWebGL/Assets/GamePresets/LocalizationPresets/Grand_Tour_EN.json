@@ -1,0 +1,14 @@
+[
+    {
+        "key":"level",
+        "value":"Level: "
+    },
+    {
+        "key":"score",
+        "value":"Score: "
+    },
+    {
+        "key":"continue",
+        "value":"Continue"
+    }
+]

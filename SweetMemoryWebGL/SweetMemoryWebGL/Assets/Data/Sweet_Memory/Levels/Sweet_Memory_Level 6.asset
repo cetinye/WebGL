@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f3c2ca36f3e30164a93ee1af0f244987, type: 3}
+  m_Name: Sweet_Memory_Level 6
+  m_EditorClassIdentifier: 
+  levelId: 6
+  typesOfCakesMaxRange: 2
+  cakeColorsMaxRange: 3
+  fruitTypesOnCakeMaxRange: 5
+  numOfCandlesOnTheCake: 0
+  numberedCandlesOnCake: 0
+  cakePrice: 0
+  timePerQuestion: 5.4
+  totalTimeForProductDisplay: 9.4
+  totalGameTime: 90
+  levelUpCriteria: 6
+  levelDownCriteria: 2
+  maxInLevel: 600
+  minRequiredToPass: 360
+  penaltyPoint: 60

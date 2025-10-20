@@ -1,0 +1,23 @@
+[
+    {
+        "key":"numberOfPassengersToGetOff",
+        "value":"Bu durakta inecek yolcu sayısı: "
+    },
+    {
+        "key":"numberOfTotalPassengers",
+        "value":"Otobüsteki toplam yolcu sayısı: "
+    },
+    {
+        "key":"level",
+        "value":"Seviye "
+    },
+    {
+        "key":"completed",
+        "value":"Başarılı"
+    },
+    {
+        "key":"areYouReady",
+        "value":"Başla! "
+    }  
+
+]

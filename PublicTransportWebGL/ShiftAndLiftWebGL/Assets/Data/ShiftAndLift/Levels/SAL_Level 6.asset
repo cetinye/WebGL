@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 36ee9d48a5889db4e9230d60584881c9, type: 3}
+  m_Name: SAL_Level 6
+  m_EditorClassIdentifier: 
+  levelId: 6
+  totalBoxesShown: 4
+  totalDisplayedFakeBoxes: 2
+  beltSpeed: 0.69
+  timeLimitPerQuestionSolve: 7
+  displayTimeOfEachProduct: 1.55
+  levelUpCriteria: 2
+  levelDownCriteria: 1
+  totalRoundsToPlay: 5
+  pointsPerCorrect: 128
+  maxInGame: 469
+  minimumScore: 281
+  penaltyPoints: 150
