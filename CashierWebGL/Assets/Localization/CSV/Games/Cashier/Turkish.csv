@@ -1,0 +1,11 @@
+Enter,GİRİŞ
+EnterBarcode,Barkodu Girin
+Level,Seviye
+Correct,DOĞRU
+TimesUp,SÜRE DOLDU
+Wrong,YANLIŞ
+ProductVerificationTitle,Ürün Doğrulama
+ProductVerificationQuestion,Bu ürünler satın alınan öğeler arasında mıydı?
+Yes,Evet
+No,Hayır
+ScanAndMemorize,Okut ve Hatırla

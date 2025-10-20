@@ -1,0 +1,20 @@
+NoInputWarning,Cognitive data collection requires interaction with the game !
+Yes,Yes
+No,No
+CORRECT,CORRECT !
+WRONG,WRONG !
+MEMORIZE,MEMORIZE
+1,Is this dancer the same as the previous one? 
+2,Is this dancer different from the previous one? 
+3,Is this dancer's move the same as the previous one?
+4,Is this dancer's move different from the previous one?
+5,Is this dancer's outfit the same as the previous one?  
+6,Is this dancer's outfit different from the previous one? 
+7,Is this dancer's top have the same color as the previous one? 
+8,Is this dancer's top have a different color from the previous one?
+9,Is this dancer's bottoms have the same color as the previous one?
+10,Is this dancer's bottoms have a different color from the previous one?
+11,Is this dancer's shoes the same color as the previous one?
+12,Is this dancer's shoes different color from the previous one? 
+13,Is this dancer's hair color the same as the previous one?
+14,Is this dancer's hair color different from the previous one?

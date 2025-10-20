@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 179b9737736c4fa385a4bdcee8903897, type: 3}
+  m_Name: W86_PrefabData
+  m_EditorClassIdentifier: 
+  BoatPrefabs:
+  - {fileID: 5507295552988779425, guid: e429ea8fb9284af4890a46599dce3c9e, type: 3}
+  - {fileID: 7813173457610268511, guid: 2406dbca2c3c4f2b8bfb3c6ec2c0796b, type: 3}
+  - {fileID: 932298456970275650, guid: 57b153e733cd4fac935692af72385c35, type: 3}
+  - {fileID: 4329568195808903371, guid: 9c6a8dde728b47a686536a11f8f02200, type: 3}
+  - {fileID: 4058456982366193408, guid: 8fb3c725a8ba43189cb0be84edae3cbb, type: 3}
+  - {fileID: 7915845040335476706, guid: 244344c09c8b47f3889d5329f273c228, type: 3}
+  - {fileID: 7459462310284760163, guid: 89d1e0e1f01e4235817add8a1ec2d967, type: 3}
+  - {fileID: 2839082468083615335, guid: d0080be374e1490ba2f35a0ee6b8a751, type: 3}
+  - {fileID: 2121499951678809613, guid: 082f79849c984f849f55cb7e4e13b9bd, type: 3}
+  - {fileID: 7457644620667735665, guid: 7f8429bd2e4b435e81797601bd3cad0d, type: 3}
+  - {fileID: 1446300299528076695, guid: 82d60a9a8fbd4787b490e9f589ae0e71, type: 3}
+  - {fileID: 3328517950186182023, guid: 4679f88b540d437582e376a844ba09c3, type: 3}
+  - {fileID: 8029728326332309776, guid: 0467f07bd7754e0ea88678de56daaddf, type: 3}
+  RequestSpritesData:
+  - RequestType: 0
+    RequestSprite: {fileID: 21300000, guid: bc2fd24d26cd44af9d45735817d846b1, type: 3}
+    MinLevel: 1
+  - RequestType: 1
+    RequestSprite: {fileID: 21300000, guid: fc1f707d851040df87a13225778c9ebd, type: 3}
+    MinLevel: 1
+  - RequestType: 3
+    RequestSprite: {fileID: 21300000, guid: 9141ed8d4f774ef79cf7d9357920831b, type: 3}
+    MinLevel: 1
+  - RequestType: 2
+    RequestSprite: {fileID: 21300000, guid: 92310e6805b24bf987482d7efd7ea3c2, type: 3}
+    MinLevel: 3
+  - RequestType: 4
+    RequestSprite: {fileID: 21300000, guid: af51d865506048d7aa60b8901041f4e8, type: 3}
+    MinLevel: 4
+  - RequestType: 5
+    RequestSprite: {fileID: 21300000, guid: 14747eafc3f8482ea06fc92c2c50ecc8, type: 3}
+    MinLevel: 6
+  - RequestType: 12
+    RequestSprite: {fileID: 21300000, guid: ba05cca1c2ad4377bfdcba5d1d827f71, type: 3}
+    MinLevel: 7
+  - RequestType: 6
+    RequestSprite: {fileID: 21300000, guid: 1d56c7f7e8a940ba9bc3d17fb9a47dd1, type: 3}
+    MinLevel: 9
+  - RequestType: 7
+    RequestSprite: {fileID: 21300000, guid: 495e2da487814599afce49650da37adf, type: 3}
+    MinLevel: 11
+  - RequestType: 10
+    RequestSprite: {fileID: 21300000, guid: 18a1cf6710c588c44af98a155fce415b, type: 3}
+    MinLevel: 14
+  FeedbackSpriteSuccess: {fileID: 935527571664412123, guid: 9c964c36a6d640d4871835f6cb73f266, type: 3}
+  FeedbackSpriteFail: {fileID: 8445838338059977731, guid: 1cb525c7f71f45baa94462aae3e295c9, type: 3}

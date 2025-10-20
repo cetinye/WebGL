@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7d544301138271f4e91f31410d3107bb, type: 3}
+  m_Name: AtomAlchemist_Level 20
+  m_EditorClassIdentifier: 
+  levelId: 20
+  innerRingSpeed: 2.53
+  ringSpeedMultiplier: 0.2
+  hitsToTransmute: 1
+  minRandom: 4
+  maxRandom: 7
+  levelUpCriteria: 2
+  levelDownCriteria: 2
+  pointsPerCorrect: 100
+  penaltyPoints: 200

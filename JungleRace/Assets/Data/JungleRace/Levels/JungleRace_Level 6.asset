@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3484295344bece24bb7eb562b823b11a, type: 3}
+  m_Name: JungleRace_Level 6
+  m_EditorClassIdentifier: 
+  levelId: 6
+  mapSize: 4
+  turtleSpeed: 1.47
+  rabbitSpeed: 2.55
+  rotation180: 1
+  rotation90: 0
+  numOfRotations: 1
+  cooldown: 0.5
+  totalRounds: 5
+  levelUpCriteria: 2
+  levelDownCriteria: 1
+  maxInLevel: 200
+  penaltyPoints: 25

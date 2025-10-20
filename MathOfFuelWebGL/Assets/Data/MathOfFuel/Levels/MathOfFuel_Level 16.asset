@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc22f011f66b49746a37999cd91b293a, type: 3}
+  m_Name: MathOfFuel_Level 16
+  m_EditorClassIdentifier: 
+  levelId: 16
+  customerPatience: 8.3
+  operationMaxRange: 3
+  difficulty: 2
+  typesOfServicesRange: 4
+  levelUpCounter: 10
+  levelDownCounter: 2
+  maxInLevel: 1000
+  minScore: 600
+  penaltyPoints: 20

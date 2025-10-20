@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a93a8ce61e459334f8a6b4b7555509cf, type: 3}
+  m_Name: HighwayControl_Level 10
+  m_EditorClassIdentifier: 
+  levelId: 10
+  totalNumOfLanes: 3
+  totalCarTypes: 4
+  vehicleSpeed: 15.51
+  gateSwitchCount: 2
+  carSpawnDelay: 1.26
+  numOfVehiclesReqToPassLevel: 15
+  maxInLevel: 1500
+  minScore: 900
+  penaltyScore: 50

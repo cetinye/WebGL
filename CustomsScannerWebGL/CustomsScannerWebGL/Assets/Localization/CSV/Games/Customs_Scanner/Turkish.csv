@@ -1,0 +1,65 @@
+ForbiddenText,Gümrük Memurunun Dikkatine: Yasaklı Malzemeler  
+OK,Tamam
+Level,Seviye
+FillPercentage,Kargo Doldurma Yüzdesi: %  
+SuccessRate,Başarı Oranı  
+TotalProhibitedItems,Toplam Yasaklı Öğeler  
+DetectedProhibitedItems,Tespit Edilen Yasaklı Öğeler  
+TotalItemsInspected,İncelenen Toplam Öğeler  
+CargoFillPercentageWas,Kargo Doldurma Yüzdesi Şuydu  
+MoreChallengeAwaits,Seni daha zorlu bir görev bekliyor, hazır ol!  
+Congratulations,Tebrikler!  
+WinDesc,Bu görevdeki görevinizi başarıyla tamamladınız.  
+TryAgain,Tekrar Dene!  
+LoseDesc,Bu sefer biraz daha dikkatli olmalısın.  
+LoseYouNeedToCatch,Bu seviyeyi geçmek için daha fazla yasaklı öğeyi yakalaman gerekiyor.  
+Shirt,Gömlek  
+Goggles,Dalış Gözlüğü  
+Glasses,Gözlük  
+Camera,Fotokamera  
+Binocular,Dürbün  
+Tablet,Dijital Tablet  
+Hat,Şapka  
+Slipper,Terlik  
+Short,Şort  
+Lipstick,Ruj  
+Mascara,Göz Maskarası  
+Comb,Tarak  
+Keys,Anahtar Takımı  
+Flashlight,El Feneri  
+Money,Nakit  
+Purse,El Çantası
+Wallet,Cüzdan
+Scissors,Makas  
+Laptop,Dizüstü Bilgisayar  
+Headphone,Kulak Üstü Kulaklık  
+Tools,Alet Takımı  
+Flashdisk,USB Sürücü  
+Gamepad,Oyun Kumandası  
+BassGuitar,Bas Enstrümanı  
+Teapot,Çaydanlık  
+FloppyDisk,Disket Sürücü  
+MemoryCard,Hafıza Deposu  
+SunGlasses,Güneşlik Gözlük  
+Perfume,Koku  
+Smartwatch,Akıllı Bileklik  
+Tennis,Tenis Ekipmanı  
+CPU,İşlem Birimi  
+Microwave,Mikrodalga Cihazı  
+HairDryer,Fön Makinesi  
+Blender,Karıştırıcı  
+MeatGrinder,Et Öğütücü  
+Webcam,İnternet Kamerası  
+Harddisk,Depolama Sürücüsü  
+Toaster,Ekmek Isıtıcı  
+Kettle,Çay Isıtıcısı  
+VideoCamera,Kayıt Kamerası  
+Iron,Buharlı Ütü  
+AirConditioner,İklimlendirme Cihazı  
+Television,Yayın Ekranı  
+HandConsole,Taşınabilir Oyun Cihazı  
+ToiletBrush,Klozet Fırçası  
+Phone,Akıllı Telefon  
+Backpack,Sırt Çantası  
+ToothBrush,Ağız Bakım Fırçası  
+Gloves,Eldiven Çifti  

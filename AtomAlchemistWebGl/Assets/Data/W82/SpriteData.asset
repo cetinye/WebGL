@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5305bba17ba0ed4478aca40c97525fef, type: 3}
+  m_Name: SpriteData
+  m_EditorClassIdentifier: Assembly-CSharp:Witmina_AtomAlchemist:SpriteData
+  ElementSprites:
+  - {fileID: 21300000, guid: c39a1ec72c5836542a32765458f299db, type: 3}
+  - {fileID: 21300000, guid: 08bdede2059afdb41bd76dd4d62d7b83, type: 3}
+  - {fileID: 21300000, guid: 894bee8a41843ba49aa994a5a08c32e9, type: 3}
+  - {fileID: 21300000, guid: 8f259d264011186448e9daf3f8e8db76, type: 3}
+  - {fileID: 21300000, guid: 6c9fe25218866344589562f242e24272, type: 3}
+  - {fileID: 21300000, guid: 778e1b3de00a5e04983acb6621636d01, type: 3}
+  - {fileID: 21300000, guid: 5e4e2e6117c44664d8b476660da8f761, type: 3}
+  - {fileID: 21300000, guid: 52c2bc5debc11234f8a8174073b080a5, type: 3}
+  - {fileID: 21300000, guid: 72a1061bb24c42b4a82231bf1840cd00, type: 3}
+  - {fileID: 21300000, guid: bef6720c26f5b794aadf0f92e4b3f185, type: 3}
+  - {fileID: 21300000, guid: 4a54a9ad91e56b2489e9f8abac676742, type: 3}
+  - {fileID: 21300000, guid: 406ad98d4b898c040b918bc01091c10b, type: 3}
+  - {fileID: 21300000, guid: 0e69841561bdd334bbc6455c92172cff, type: 3}
+  - {fileID: 21300000, guid: e5547b5edf78f6b4a8c854852f8a6502, type: 3}
+  - {fileID: 21300000, guid: 3bb4b7ce01bc94445b973146978096e7, type: 3}
+  - {fileID: 21300000, guid: 13adccddd7f90b841b3bf97216b7582d, type: 3}
+  - {fileID: 21300000, guid: 92d7470ab847d4c40b4ff73a0b51c01d, type: 3}
+  - {fileID: 21300000, guid: cc451f7b4a646cf499ec2a542074484b, type: 3}
+  - {fileID: 21300000, guid: ba912b394cd39ee49bcaae938e8bde8c, type: 3}
+  - {fileID: 21300000, guid: 4ce36cceb5cec4345965e12c6b599710, type: 3}
+  - {fileID: 21300000, guid: b2169222c7462dd46b6a725872f685aa, type: 3}
+  ElementColors:
+  - {r: 0.015686275, g: 0.6431373, b: 0.60784316, a: 1}
+  - {r: 0.5647059, g: 0.15294118, b: 0.56078434, a: 1}
+  - {r: 0.9725491, g: 0.7960785, b: 0.19215688, a: 1}
+  - {r: 0.97647065, g: 0.9215687, b: 0.18431373, a: 1}
+  - {r: 0.21176472, g: 0.7058824, b: 0.2901961, a: 1}
+  - {r: 0, g: 0.64705884, b: 0.60784316, a: 1}
+  - {r: 0, g: 0.6431373, b: 0.60784316, a: 1}
+  - {r: 0, g: 0.64705884, b: 0.60784316, a: 1}
+  - {r: 0.909804, g: 0.16078432, b: 0.47450984, a: 1}
+  - {r: 0.56078434, g: 0.15294118, b: 0.56078434, a: 1}
+  - {r: 0.9725491, g: 0.8000001, b: 0.19215688, a: 1}
+  - {r: 0.9725491, g: 0.9294118, b: 0.19215688, a: 1}
+  - {r: 0.8313726, g: 0.8705883, b: 0.14117648, a: 1}
+  - {r: 0.21176472, g: 0.7019608, b: 0.2901961, a: 1}
+  - {r: 0, g: 0.6509804, b: 0.6117647, a: 1}
+  - {r: 0.003921569, g: 0.6392157, b: 0.6039216, a: 1}
+  - {r: 0.90196085, g: 0.16078432, b: 0.47450984, a: 1}
+  - {r: 0.54901963, g: 0.15686275, b: 0.5568628, a: 1}
+  - {r: 0.9725491, g: 0.8000001, b: 0.18823531, a: 1}
+  - {r: 0.97647065, g: 0.92549026, b: 0.18431373, a: 1}
+  - {r: 0.7607844, g: 0.6, b: 0.41960788, a: 1}
+  ElementNames:
+  - H
+  - He
+  - Li
+  - Be
+  - B
+  - C
+  - N
+  - O
+  - F
+  - Ne
+  - Na
+  - Mg
+  - Al
+  - Si
+  - P
+  - S
+  - Cl
+  - Ar
+  - K
+  - Ca
+  - Sc

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f4afd720c939334eb8b289af94031cf, type: 3}
+  m_Name: CustomsScanner_Level 13
+  m_EditorClassIdentifier: 
+  levelId: 13
+  vehicleMoveTime: 14.1
+  productFillPercent: 80
+  isSecretItemEnabled: 0
+  forbiddenItemAmount: 5
+  forbiddenBoxAmount: 4
+  vehicleAmount: 5
+  totalNumOfForbiddenProducts: 19
+  timeToShowItemList: 5
+  levelDownCriteria: 2
+  maxInGame: 1900
+  minScore: 1330
+  penaltyPoints: 50

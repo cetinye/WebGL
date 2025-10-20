@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05e33e0464afa434c8a70c225d6a6761, type: 3}
+  m_Name: WordsSO
+  m_EditorClassIdentifier: 
+  threeLetters: {fileID: 4900000, guid: 3a45bfeaca2219b48a15489d6c661080, type: 3}
+  fourLetters: {fileID: 4900000, guid: 62bf8b1d7bb54c042b2d1d2b30e4f670, type: 3}
+  fiveLetters: {fileID: 4900000, guid: 7cd5751508eafc347b04e1df4b86b920, type: 3}
+  sixLetters: {fileID: 4900000, guid: c737c14cd30c4664a8a744b398fcc5f8, type: 3}
+  sevenLetters: {fileID: 4900000, guid: 1fe88463e792f6e44b23bad244e3a560, type: 3}
+  eightLetters: {fileID: 4900000, guid: aa8b8ef39c70d9a49b210eda562772a1, type: 3}
+  nineLetters: {fileID: 4900000, guid: 0d628a6bb3a702448918d1851534187a, type: 3}
